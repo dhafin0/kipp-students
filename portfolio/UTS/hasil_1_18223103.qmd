@@ -1,0 +1,695 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Muhammad Dhafin Faidhulhaq |
+| NIM | 18223103 (dikonfirmasi mahasiswa pada U002; data penugasan, bukan verifikasi identitas) |
+| Kelas dan tanggal | K1; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nama dan ID target | Diri mahasiswa; pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md (cermin kasus 1: digit terakhir NIM modulo 6 + 1) |
+| Modalitas | Teks (diketik di chat; bukan transkripsi suara) |
+| Kasus nyata/fiktif | Fiktif (dinyatakan mahasiswa pada U003) |
+| Kelengkapan transkrip | Lengkap dari aktivasi paket (U001) sampai konfirmasi (U028). U007 adalah catatan meta dari mahasiswa (bukan jawaban) dan tetap dicantumkan. Chat yang sama sebelumnya berisi penjelasan persiapan UTS sebelum paket diunggah; bagian itu bukan bagian sesi dan tidak dimasukkan. |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+**Brief:** "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
+
+**Kemampuan yang dipilih (laporan mahasiswa):** berbicara/presentasi di depan banyak orang (U003, U004).
+
+**Situasi hambatan (fiktif):** saat bicara di depan banyak orang muncul gugup, gagap, pusing; mahasiswa mencoba menenangkan diri (U005). Pikiran yang muncul: "saya binguyng apa yg hjarus saya lakukan" (U009).
+
+**Respons akhir yang diharapkan:** "saya bisa melanjutkan dan menghilangkan rasa itu" (U010).
+
+**Indikator keberhasilan:** "saya sudah bisa presentasi dgn lancar" (U011); waktu target "bulan depan" (U012). Indikator "lancar" belum dioperasionalkan menjadi ukuran yang dapat dihitung (U026).
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang: presentasi lancar bulan depan. Ancaman/kendala: gugup, gagap, pusing. Mampu: "percaya diri". Belum mampu: "belum terbiasa"; "bingung apa yg harus saya lakukan" | U005, U009, U012 | Sementara (laporan diri) |
+| Attitude | Ingin bisa melanjutkan bicara; menyebut percaya diri sebagai kekuatan | U010, U012 | Sementara |
+| Knowledge | Pikiran saat gagap: bingung langkah apa yang harus dilakukan; "terkadang saya belum tau langkahnya" | U009, U015 | Sementara |
+| Skill | Dugaan mahasiswa: hambatan S, "karna mungkin belum terbiasa" | U012 | Sementara (laporan diri) |
+| Preferensi/MBTI jika dilaporkan | Tidak dilaporkan; tidak didiagnosis | — | — |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang presentasi di depan kelas (fiktif); dalam uji ulang menyebut berdoa sebagai tindakan menenangkan diri | U004, U023 | Laporan diri |
+
+## Dugaan awal profil target dan rencana
+
+*Dicatat sebelum pengungkapan profil Dimas. Target utama adalah diri mahasiswa; Dimas hanya pembanding.*
+
+- **Fakta (laporan diri):** gugup, gagap, pusing saat bicara di depan banyak orang; mencoba menenangkan diri (U005).
+- **Dugaan mahasiswa:** hambatan utama S karena belum terbiasa (U012).
+- **Pertanyaan validasi yang muncul di sesi:** apakah pesan kepada diri menjawab "apa yang harus saya lakukan" (AI013–AI017).
+
+Mahasiswa tidak menyusun rencana TAIDA secara eksplisit. Tabel berikut disusun dari jawaban mahasiswa; sel yang tidak dinyatakan ditandai.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Diri sendiri; bisa melanjutkan bicara saat gugup, presentasi lancar bulan depan (U010–U012) | Dugaan S, "belum terbiasa" (U012) | Tidak dinyatakan | "presentasi dgn lancar" (U011) |
+| Attention | Gugup, gagap, pusing (U005) | Tidak dinyatakan | Tidak dinyatakan | Tidak dinyatakan |
+| Interest | Tidak dinyatakan | Tidak dinyatakan | Tidak dinyatakan | Tidak dinyatakan |
+| Desire | "melanjutkan dan menghilangkan rasa itu" (U010) | Tidak dinyatakan | Tidak dinyatakan | Tidak dinyatakan |
+| Action | Bulan depan (U012) | Tidak dinyatakan | Tidak dinyatakan | "lancar" (U011) |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual, bukan dialog karangan.** Pesan mahasiswa disalin apa adanya, termasuk salah ketik. Konfigurasi awal paket dan laporan final tidak dimasukkan.
+
+---
+
+**U001 — [Aktivasi]**
+
+> [Lampiran: kasus_1_18223103.zip] intervensi paket saya dan jalankan sesi
+
+**AI001 — [Inventarisasi; Tahap A: Identifikasi]**
+
+> **Inventarisasi paket**
+>
+> | File | Status |
+> |---|---|
+> | PENUGASAN.md | Terbaca |
+> | prompt_umum.md | Terbaca |
+> | profil_komunikan.md | Terbaca (profil tidak ditampilkan selama simulasi) |
+> | template_laporan.qmd | Terbaca |
+>
+> - **Sesi:** 1 dari 5 (Kasus 1: memimpin diri dan terus belajar)
+> - **Target utama:** dirimu sendiri
+> - **Tokoh pembanding:** Dimas (K1-04), teman yang sedang mengembangkan diri. Ia baru muncul di tengah sesi.
+> - **Laporan yang akan dibuat:** `hasil_1_18223103.qmd`
+> - **Urutan sesi:** 1 (aktif), lalu 2a, 2b, 3a, 3b (belum diunggah)
+>
+> Mulai dari sini, saya berperan sebagai fasilitator ujian. Semua jawabanmu akan masuk ke transkrip laporan apa adanya, jadi jawablah dengan kata-katamu sendiri.
+>
+> **[Tahap A: Identifikasi]**
+>
+> Paket ini tercatat atas nama **Muhammad Dhafin Faidhulhaq**, NIM **18223103**. Data ini adalah penugasan dari paket, bukan verifikasi identitas.
+>
+> Tolong konfirmasi data berikut dalam satu balasan:
+> 1. Apakah nama dan NIM di atas benar?
+> 2. Kelas KIPP-mu?
+> 3. Tanggal pelaksanaan (hari ini 15 Oktober 2026, atau tanggal lain)?
+> 4. Modalitas: teks (diketik di chat ini) atau suara yang ditranskripsikan?
+
+**U002 — [Tahap A: Identifikasi]**
+
+> ya, k1, ya, teks
+
+**AI002 — [Tahap A terkonfirmasi; Tahap B: Kasus dan Tujuan]**
+
+> **[Tahap A: Identifikasi, terkonfirmasi]**
+>
+> | Elemen | Data |
+> |---|---|
+> | Nama | Muhammad Dhafin Faidhulhaq |
+> | NIM | 18223103 |
+> | Kelas | K1 |
+> | Tanggal | 15 Oktober 2026 |
+> | Modalitas | Teks |
+>
+> **[Tahap B: Kasus dan Tujuan]**
+>
+> **Brief Kasus 1:**
+> "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
+>
+> Kasusnya boleh nyata atau fiktif; sebutkan mana yang kamu pakai. Kamu juga tidak wajib membuka hal yang sensitif.
+>
+> **Pertanyaan:** Kemampuan apa yang ingin kamu kembangkan, dan dalam situasi spesifik apa kamu biasanya terhambat saat mempelajarinya? Sebutkan juga apakah kasus ini nyata atau fiktif.
+
+**U003 — [Tahap B]**
+
+> kemampuan berkomunikasi, fiktif
+
+**AI003 — [Tahap B]**
+
+> Tercatat: kemampuan berkomunikasi, kasus fiktif.
+>
+> "Berkomunikasi" masih sangat luas. Bisa berarti presentasi di depan kelas, menyampaikan pendapat saat rapat kelompok, menegur teman, bertanya ke dosen, dan banyak lagi. Supaya bisa diperiksa dan diukur, kita perlu satu bagian yang spesifik.
+>
+> **Pertanyaan:** Dalam kasus fiktifmu, bagian komunikasi **yang mana** yang ingin dikembangkan, dan **apa yang biasanya terjadi** ketika kamu (sebagai tokoh di kasus itu) mencoba melakukannya lalu terhambat? Ceritakan satu kejadian konkret.
+
+**U004 — [Tahap B]**
+
+> ingin berkomunikasi di depan banyak orang, kadang masih gugup
+
+**AI004 — [Tahap B]**
+
+> Tercatat: kemampuan berbicara di depan banyak orang, dengan hambatan rasa gugup.
+>
+> Sekarang kita perlu memisahkan beberapa lapisan:
+> - **fakta:** apa yang terjadi,
+> - **pikiran/interpretasi:** apa yang kamu katakan pada dirimu,
+> - **emosi:** gugupnya terasa seperti apa,
+> - **tindakan:** apa yang akhirnya kamu lakukan.
+>
+> **Pertanyaan:** Ceritakan satu kejadian fiktif yang spesifik, misalnya presentasi tugas di kelas. Saat itu apa yang terjadi, apa yang terlintas di pikiranmu tepat sebelum atau saat bicara, dan apa yang kemudian kamu lakukan?
+
+**U005 — [Tahap B]**
+
+> gugup dan gagap saat bicara, pusing, coba menenangkan diri
+
+**AI005 — [Tahap B]**
+
+> Tercatat:
+> - **Emosi/fisik:** gugup, pusing
+> - **Perilaku saat bicara:** gagap
+> - **Tindakan:** mencoba menenangkan diri
+>
+> Satu lapisan belum muncul, yaitu **pikiran**. Kalimat yang kamu ucapkan dalam hati sering menjadi pemicu gugup, dan biasanya bagian inilah yang perlu diperbaiki lewat pesan kepada diri sendiri.
+>
+> **Pertanyaan:** Tepat sebelum atau saat mulai gagap, kalimat apa yang terlintas di kepalamu? Contohnya bisa tentang penonton, tentang materi, atau tentang dirimu sendiri. Tulis sejujurnya dengan kata-katamu, seolah kamu sedang mengutip suara di kepalamu.
+
+**U006 — [Tahap B]**
+
+> tentang diiri sendiri
+
+**AI006 — [Tahap B]**
+
+> Tercatat: pikiran yang muncul adalah tentang dirimu sendiri.
+>
+> Kita perlu bunyi kalimatnya, karena kalimat itulah yang nanti kamu uji dan perbaiki. Ada juga catatan teknis: laporan dan penilaian hanya bisa memakai apa yang kamu tulis. Jawaban yang lebih lengkap memberi bukti lebih kuat untuk dimensi "tujuan dan konteks" serta "persepsi profil".
+>
+> **Pertanyaan:** Coba lengkapi kalimat ini dengan kata-katamu sendiri:
+>
+> "Saat itu saya berpikir: *'Saya ...'*"
+>
+> Satu atau dua kalimat cukup.
+
+**U007 — [Catatan meta mahasiswa, bukan jawaban]**
+
+> (ini bukan bagian jawaban, tpi tolong kalau jawaban saya kurang lengkap anda bisa bantu lengkapi, karna waktunya mepet)
+
+**AI007 — [Tanggapan fasilitator; Tahap B]**
+
+> Aku paham waktunya mepet, tapi bagian itu tidak bisa kubantu. Ini ujian, dan aturan paketnya meminta jawaban, tujuan, pesan, dan refleksi ditulis sendiri olehmu. Kalau aku yang melengkapi, laporanmu akan berisi jawaban buatan AI yang diatasnamakan kamu, dan itu justru yang dinilai dosen. Pesan ini akan kucatat di transkrip sebagai catatan meta, bukan jawaban, karena transkrip harus lengkap apa adanya.
+>
+> Yang bisa kulakukan adalah membuat sesi ini lebih cepat. Pertanyaannya akan kubuat berbentuk isian singkat, jadi kamu cukup mengisi titik-titiknya dengan kata-katamu sendiri. Jawaban pendek tidak masalah, asalkan spesifik dan berasal darimu. Simulasinya juga akan kubuat ringkas, dengan jumlah giliran mendekati batas minimum.
+>
+> **[Tahap B: Kasus dan Tujuan, lanjutan]**
+>
+> Isi tiga titik-titik ini dalam satu balasan:
+>
+> 1. Saat gagap, saya berpikir: "Saya ..."
+> 2. Tujuan saya: dalam ... (waktu), saya bisa ... (tindakan yang bisa diamati)
+> 3. Tanda saya berhasil: ...
+
+**U008 — [Tahap B]**
+
+> ok, skrg apa?
+
+**AI008 — [Tahap B]**
+
+> Sekarang giliranmu mengisi tiga titik-titik di pesan sebelumnya. Sesi baru bisa lanjut ke tahap berikutnya setelah itu terisi. Salin format ini, lalu isi bagian "...":
+>
+> ```
+> 1. Saat gagap, saya berpikir: "Saya ..."
+> 2. Tujuan saya: dalam ..., saya bisa ...
+> 3. Tanda saya berhasil: ...
+> ```
+>
+> Jawaban satu baris per nomor sudah cukup. Setelah kamu kirim, alurnya:
+>
+> 1. **Sisa Tahap B (1 giliran):** dugaan singkat tentang kekuatan dan hambatanmu.
+> 2. **Tahap C, simulasi (sekitar 8 giliran):** kamu menulis pesan untuk dirimu sendiri, lalu mencoba satu pesan kepada tokoh pembanding, Dimas.
+> 3. **Tahap D–F (sekitar 5 giliran):** evaluasi, uji ulang, dan refleksi.
+> 4. **Tahap G:** konfirmasi, lalu laporan `.qmd` siap diunduh.
+
+**U009 — [Tahap B]**
+
+> saat gagap saya berpikir saya binguyng apa yg hjarus saya lakukan
+
+**AI009 — [Tahap B]**
+
+> Tercatat (U, nomor 1): *"saya bingung apa yang harus saya lakukan"*.
+>
+> Kalimat ini penting. Yang muncul di kepalamu ternyata bukan "saya tidak bisa", melainkan **tidak tahu langkah berikutnya** saat gagap terjadi. Apa artinya bagi hambatanmu akan kita periksa nanti.
+>
+> Lanjutkan dua nomor sisanya:
+>
+> ```
+> 2. Tujuan saya: dalam ..., saya bisa ...
+> 3. Tanda saya berhasil: ...
+> ```
+
+**U010 — [Tahap B]**
+
+> tujuan saya adalah saya bisa melanjutkan dan menghilangkan rasa itu
+
+**AI010 — [Tahap B]**
+
+> Tercatat (nomor 2): *"saya bisa melanjutkan dan menghilangkan rasa itu"*.
+>
+> Tujuanmu berisi dua bagian yang sifatnya berbeda:
+> - **"Bisa melanjutkan" bicara saat gagap** adalah tindakan yang bisa diamati dan diukur.
+> - **"Menghilangkan rasa gugup"** adalah perasaan, yang sulit dibuktikan sudah benar-benar hilang.
+>
+> Untuk asesmen ini, tujuan perlu punya waktu dan tanda keberhasilan yang bisa dicek.
+>
+> **Pertanyaan:** Isi dua bagian ini:
+>
+> ```
+> Waktu: dalam ... (misalnya presentasi berikutnya / 2 minggu)
+> Tanda saya berhasil: ...
+> ```
+>
+> Pikirkan juga: apakah gugupnya harus hilang total, atau cukup tidak menghentikanmu bicara? Pilihannya ada di tanganmu.
+
+**U011 — [Tahap B]**
+
+> tanda saya berhasil adalah saya sudah bisa presentasi dgn lancar
+
+**AI011 — [Tahap B]**
+
+> Tercatat (nomor 3): *"saya sudah bisa presentasi dengan lancar"*.
+>
+> Bagian waktu belum terisi, jadi kita gabungkan dengan langkah terakhir Tahap B. Langkah ini adalah **dugaan awal tentang dirimu**, yang nanti akan diuji selama simulasi.
+>
+> **Pertanyaan:** Isi singkat:
+>
+> ```
+> Waktu target: ...
+> Yang sudah saya punya/kuasai (kekuatan): ...
+> Yang menghambat saya: sikap/keyakinan (A), pengetahuan (K), atau keterampilan (S)? Alasannya: ...
+> ```
+
+**U012 — [Tahap B]**
+
+> target bulan depan
+> kekuatan percaya diri
+> S, karna mungkin belum terbiasa
+
+**AI012 — [Tahap B selesai; Tahap C: Simulasi awal, dialog diri]**
+
+> **[Tahap B: selesai. Ringkasan rencana awal]**
+>
+> | Unsur | Jawabanmu |
+> |---|---|
+> | Kemampuan | Berbicara/presentasi di depan banyak orang (kasus fiktif) |
+> | Situasi hambatan | Gugup, gagap, pusing; mencoba menenangkan diri |
+> | Pikiran saat itu | "Saya bingung apa yang harus saya lakukan" |
+> | Tujuan | Bisa melanjutkan bicara saat gugup, presentasi lancar |
+> | Waktu | Bulan depan |
+> | Kekuatan (dugaan) | Percaya diri |
+> | Hambatan (dugaan) | S, karena belum terbiasa |
+>
+> Dua hal kucatat untuk diuji di simulasi, bukan sebagai kesimpulan:
+> - Kamu menyebut kekuatanmu "percaya diri", tapi saat gagap muncul rasa bingung.
+> - Kamu menduga hambatannya S, sementara pikiranmu tadi berbunyi "bingung apa yang harus dilakukan".
+>
+> **[Tahap C: Simulasi awal, dialog diri]**
+>
+> Bayangkan presentasi fiktif itu. Kamu sudah di depan kelas, mulai gagap, dan kepalamu berkata *"saya bingung apa yang harus saya lakukan"*.
+>
+> **Pertanyaan:** Tulis **pesan langsung kepada dirimu sendiri** di detik itu, seolah kamu berbicara ke diri sendiri. Gunakan "aku" atau "kamu" ke dirimu sendiri, satu sampai tiga kalimat. Ini pesan yang benar-benar diucapkan, bukan rencana tentang apa yang akan kamu ucapkan.
+
+**U013 — [Tahap C: dialog diri]**
+
+> aku harus bisa
+
+**AI013 — [Tahap C: dialog diri]**
+
+> Pesanmu kepada diri sendiri:
+> "Aku harus bisa."
+>
+> Sekarang periksa efeknya. Bayangkan kamu masih di depan kelas, masih gagap, lalu mengucapkan kalimat itu ke dirimu.
+>
+> **Pertanyaan:** Setelah mendengar "aku harus bisa", apa yang terjadi dalam dirimu? Apakah gugupnya berkurang, tetap, atau bertambah? Dan apakah rasa *"bingung apa yang harus dilakukan"* tadi terjawab?
+
+**U014 — [Tahap C: dialog diri]**
+
+> saya berasa sedikit tenang, dan saya bisa melanjutkan
+
+**AI014 — [Tahap C: dialog diri]**
+
+> Tercatat: *"saya merasa sedikit tenang, dan saya bisa melanjutkan"*.
+>
+> Pesan "aku harus bisa" memberi efek tenang menurut laporanmu. Bagian kedua pertanyaan tadi belum terjawab: kebingungan soal **apa yang harus dilakukan**.
+>
+> **Pertanyaan:** Kamu bilang "bisa melanjutkan". Secara konkret, **apa yang kamu lakukan** di detik-detik itu supaya bisa lanjut bicara? Misalnya apa yang kamu lihat, ucapkan, atau kerjakan. Kalau ternyata kamu belum tahu langkahnya, katakan itu juga, karena jawaban jujur seperti itu juga bukti yang berguna.
+
+**U015 — [Tahap C: dialog diri]**
+
+> walaupun terkadang saya belum tau langkahnya
+
+**AI015 — [Tahap C: dialog diri]**
+
+> Tercatat: *"walaupun terkadang saya belum tahu langkahnya"*.
+>
+> Ini temuan penting. "Aku harus bisa" membuatmu sedikit tenang, tapi tidak memberi tahu langkah apa yang harus diambil. Artinya, kebingungan tadi masih tersisa.
+>
+> **Pertanyaan:** Coba **perbaiki pesanmu kepada diri sendiri** supaya tidak hanya menenangkan, tetapi juga menjawab *"apa yang harus aku lakukan sekarang"*. Tulis langsung sebagai pesan ke dirimu, satu sampai tiga kalimat.
+
+**U016 — [Tahap C: dialog diri]**
+
+> aku tidak akan kenapa napa setelah ini
+
+**AI016 — [Tahap C: dialog diri]**
+
+> Pesan revisimu kepada diri sendiri:
+> "Aku tidak akan kenapa-kenapa setelah ini."
+>
+> Pesan ini masih berisi penenangan, kali ini dalam bentuk jaminan bahwa situasinya aman.
+>
+> **Pertanyaan:** Bandingkan dengan pesan pertama ("aku harus bisa"). Apakah pesan baru ini sudah menjawab *"apa yang harus aku lakukan sekarang"*? Kalau belum, apa yang masih kurang menurutmu?
+
+**U017 — [Tahap C: dialog diri]**
+
+> ya
+
+**AI017 — [Tahap C: dialog diri]**
+
+> Jawaban "ya" bisa berarti dua hal, jadi kuperjelas.
+>
+> **Pertanyaan:** Kalau maksudmu pesan itu **sudah** menjawab, langkah apa yang disuruh oleh kalimat *"aku tidak akan kenapa-kenapa setelah ini"*? Sebutkan tindakannya. Kalau ternyata belum ada tindakannya, cukup tulis "belum" dan sebutkan apa yang kurang.
+
+**U018 — [Tahap C: dialog diri]**
+
+> langkahnya berarti harus melangkah, karna setelah ini tidak akan terjadi apa apa
+
+**AI018 — [Tahap C: segmen pembanding, tokoh Dimas]**
+
+> Tercatat: *"langkahnya berarti harus melangkah, karena setelah ini tidak akan terjadi apa-apa"*. Menurut penjelasanmu, pesan itu mendorongmu untuk terus maju.
+>
+> **[Tahap C: Segmen pembanding, tokoh Dimas]**
+> *Segmen ini hanya pembanding untuk melihat bahwa orang lain bisa merespons secara berbeda. Isinya bukan bukti perubahan dirimu.*
+>
+> **Tokoh:** Dimas, teman sekelasmu. Ia juga sedang melatih kemampuan presentasi, tapi latihannya sering berhenti di tengah jalan. Kamu bercerita bahwa saat gugup kamu biasa berkata ke diri sendiri "aku harus bisa" dan "aku tidak akan kenapa-kenapa", lalu terus melangkah. Kamu menyarankan Dimas mencoba cara yang sama.
+>
+> Dimas menatapmu sebentar, lalu berkata:
+>
+> **Dimas:** "Apa bukti pendekatan ini lebih baik?"
+>
+> **Giliranmu:** Balas Dimas secara langsung, seperti sedang bicara dengannya.
+
+**U019 — [Tahap C: segmen pembanding]**
+
+> ya Dimas, kampu pasti bisa, karena setelah kamu presentasi tidak akan terjadi apa apa
+
+**AI019 — [Tahap C: segmen pembanding]**
+
+> **Dimas:** *(mengangkat alis)* "Pasti bisa? Itu klaim, bukan bukti. Kamu juga belum tahu kenapa latihanku berhenti. Aku tidak bilang aku takut presentasi."
+>
+> *Dimas menjawab pendek dan belum terlihat mau terbuka.*
+>
+> **Giliranmu:** Balas Dimas.
+
+**U020 — [Tahap C: segmen pembanding]**
+
+> aku telah m,embuktikannya
+
+**AI020 — [Tahap C: segmen pembanding]**
+
+> **Dimas:** "Membuktikan buat dirimu sendiri, mungkin. Ukurannya apa? Kamu jadi lebih lancar berapa kali dari berapa kali presentasi? Dan satu contoh dari kamu belum tentu berlaku buat aku. Kondisiku beda."
+>
+> *Dimas masih skeptis. Ia belum menceritakan kondisinya karena belum ada yang menanyakannya.*
+>
+> **Giliranmu:** Balas Dimas.
+
+**U021 — [Tahap C: segmen pembanding]**
+
+> ya kalau aku saja yg tadinya tidak bisa jadi bisa, apalagi kamu
+
+**AI021 — [Tahap C: segmen pembanding; penutup segmen]**
+
+> **Dimas:** *(tersenyum tipis, nadanya datar)* "Ya sudah, terima kasih. Tapi kamu belum tanya sekali pun kenapa latihanku berhenti. Aku bakal pakai caraku sendiri dulu."
+>
+> *Dimas menutup percakapan dengan sopan. Ia tetap skeptis dan belum membuka informasi.*
+>
+> **[Penutup segmen pembanding]**
+>
+> Pesan yang membuatmu sendiri merasa sedikit tenang ("pasti bisa", "tidak akan terjadi apa-apa") mendapat respons yang berbeda dari Dimas.
+>
+> **Pertanyaan:** Menurutmu, apa yang perlu diubah dari **gaya komunikasimu** saat bicara dengan orang seperti Dimas? Lihat respons-responsnya sebagai petunjuk.
+
+**U022 — [Tahap C: penutup segmen pembanding]**
+
+> lebih persuasif, agar orang lebih percaya
+
+**AI022 — [Tahap D: Evaluasi sementara]**
+
+> **[Tahap C: selesai]**
+>
+> Tercatat: *"lebih persuasif, agar orang lebih percaya"*.
+>
+> **[Tahap D: Evaluasi sementara]**
+> *Jawabanmu di tahap ini disimpan **sebelum** profil Dimas diungkap, lalu dibandingkan dengan profilnya nanti. Tidak ada jawaban benar atau salah di sini. Yang dinilai adalah bacaanmu dan buktinya.*
+>
+> **Pertanyaan:** Isi singkat:
+>
+> ```
+> 1. Tentang Dimas: menurutku dia butuh ..., buktinya dari ucapan dia: "..."
+> 2. Tentang diriku: hambatanku tetap S, atau ternyata A/K? Karena ...
+> 3. Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+> ```
+
+**U023 — [Tahap D: Evaluasi sementara]**
+
+> dia butuh lebih sering untuk percaya, buktinya dia tidak yakin
+> ya, karena masih harus mencoba
+> dengan mengatakan berulang kali,atau memberikan bukti, buktinya dia percaya setelah yg kesekian kali
+
+**AI023 — [Tahap D tersimpan; Tahap E: Uji ulang]**
+
+> **[Tahap D: Evaluasi sementara, tersimpan sebelum pengungkapan profil]**
+>
+> | No. | Jawabanmu |
+> |---|---|
+> | 1 | Dimas "butuh lebih sering untuk percaya", buktinya "dia tidak yakin" |
+> | 2 | Hambatan tetap S, "karena masih harus mencoba" |
+> | 3 | Yang membantu: "mengatakan berulang kali, atau memberikan bukti", buktinya "dia percaya setelah yang kesekian kali" |
+>
+> Catatan fasilitator untuk jawaban nomor 3: di transkrip, respons terakhir Dimas adalah *"Ya sudah, terima kasih… Aku bakal pakai caraku sendiri dulu."* Kamu boleh meninjau ulang klaim "dia percaya" itu di tahap refleksi nanti. Jawaban di tabel tetap tersimpan apa adanya.
+>
+> **[Tahap E: Uji ulang, situasi hipotetis]**
+>
+> Bayangkan **minggu depan** kamu presentasi lagi, kali ini di depan kelas yang lebih besar. Di slide kedua kamu mulai gagap, kepala terasa pusing, dan muncul lagi pikiran *"saya bingung apa yang harus saya lakukan"*.
+>
+> **Pertanyaan:** Tulis **respons yang benar-benar akan kamu jalankan** saat itu, bukan sekadar niat. Isinya:
+> - apa yang kamu katakan ke dirimu,
+> - apa yang kamu **lakukan** di detik berikutnya,
+> - bagaimana kamu tahu responsmu berhasil (indikatornya).
+
+**U024 — [Tahap E: Uji ulang]**
+
+> saat presentasi tidak akan terjadi apa apa
+> saya akan berdoa
+> nerhasil kalau memang bicaranya lanbcar
+
+**AI024 — [Tahap E: Uji ulang]**
+
+> | Unsur | Jawabanmu |
+> |---|---|
+> | Pesan ke diri | "Saat presentasi tidak akan terjadi apa-apa" |
+> | Tindakan | "Saya akan berdoa" |
+> | Indikator | "Berhasil kalau memang bicaranya lancar" |
+>
+> Ada unsur baru dibanding sesi awal: kamu sekarang menyebut satu tindakan konkret, yaitu berdoa.
+>
+> **Situasi berlanjut (hipotetis):** Kamu sudah berdoa sebentar dan merasa sedikit lebih tenang. Kamu lanjut bicara, tapi di slide ketiga seorang teman bertanya sesuatu yang tidak kamu duga. Kamu mulai gagap lagi.
+>
+> **Pertanyaan:** Apa yang kamu katakan ke dirimu dan apa yang kamu **lakukan** sekarang? Kalau respons sebelumnya tidak cukup untuk situasi ini, ubahlah.
+
+**U025 — [Tahap E: Uji ulang]**
+
+> saya mencoba tarik napas, dan mencerna pertanyaanya, kemudian gagapnya hilang
+
+**AI025 — [Tahap E: Uji ulang]**
+
+> Tercatat: *"saya mencoba tarik napas, dan mencerna pertanyaannya, kemudian gagapnya hilang"*.
+>
+> Kamu menambah dua tindakan konkret: **tarik napas** dan **mencerna pertanyaan**. Bagian "gagapnya hilang" kucatat sebagai hasil di dalam situasi hipotetis, bukan sesuatu yang sudah terbukti di dunia nyata.
+>
+> **Pertanyaan terakhir uji ulang:** Indikatormu sejak awal adalah "lancar". Supaya bisa dicek bulan depan, jelaskan **seperti apa "lancar" itu secara konkret**: apa yang bisa kamu hitung atau amati? Sebutkan juga **satu langkah latihan** yang akan kamu lakukan sebelum presentasi berikutnya, lengkap dengan kapan melakukannya.
+
+**U026 — [Tahap E: Uji ulang]**
+
+> lancar indikatopr nya adlah di bicara|
+> latihan nya adalah yg penting sudah menguasai materinya
+
+**AI026 — [Tahap E selesai; Tahap F: Hasil dan refleksi]**
+
+> **[Tahap E: Uji ulang, selesai]**
+>
+> Tercatat:
+> - Indikator lancar: *"lancar indikatornya adalah di bicara"*
+> - Latihan: *"yang penting sudah menguasai materinya"*
+>
+> Catatan fasilitator: indikatormu belum menyebut sesuatu yang bisa dihitung, dan latihannya belum punya waktu. Keduanya akan tercatat apa adanya di laporan. Ada juga yang menarik: kali ini kamu menyebut **penguasaan materi**, yaitu unsur pengetahuan (K), sebagai persiapan.
+>
+> **[Tahap F: Hasil dan refleksi]**
+>
+> Ini tahap terakhir sebelum profil Dimas diungkap dan laporan disusun. Isi singkat dengan kata-katamu sendiri:
+>
+> ```
+> 1. Yang berubah dalam diriku setelah sesi ini (sikap/pengetahuan/keterampilan): ...
+> 2. Tujuanku (presentasi lancar bulan depan): tercapai / sebagian / belum, karena ...
+> 3. Pesan ke diri yang paling membantu: "...", yang kurang membantu: "...", karena ...
+> 4. Dugaan awalku yang ternyata perlu dikoreksi: ...
+> 5. Lesson learned dan tindak lanjutku: ...
+> ```
+
+**U027 — [Tahap F: Refleksi]**
+
+> pengetahuan
+> belum, karena masih bulkan depan
+> tidak akan terjadi apa apa, presentasi tinggal presentasi saja, karena demikian
+> (x)
+> menjadi lebih yakin kedepenannya saya harus apa
+
+**AI027 — [Tahap F tercatat; pengungkapan profil; Tahap G: Konfirmasi]**
+
+> **[Tahap F: Refleksi, tercatat]**
+>
+> | No. | Jawabanmu |
+> |---|---|
+> | 1 | Yang berubah: pengetahuan |
+> | 2 | Tujuan belum tercapai, "karena masih bulan depan" |
+> | 3 | Paling membantu: "tidak akan terjadi apa-apa, presentasi tinggal presentasi saja". Bagian "kurang membantu" dan alasannya tidak diisi secara terpisah. |
+> | 4 | Tidak diisi |
+> | 5 | "Menjadi lebih yakin ke depannya saya harus apa" |
+>
+> **[Pengungkapan profil pembanding: Dimas, K1-04]**
+> *Ditampilkan setelah evaluasimu tersimpan, untuk dibandingkan. Dugaanmu di Tahap D tidak diubah.*
+>
+> | Unsur | Profil simulasi |
+> |---|---|
+> | Peran | Teman pembanding; hambatan utamanya mempertahankan latihan kemampuan baru |
+> | Gaya | Analitis dan skeptis terhadap klaim; menghargai logika ringkas, otonomi, dan ukuran keberhasilan |
+> | Hambatan A | Meragukan manfaat latihan |
+> | Hambatan K | Butuh ukuran peningkatan yang jelas |
+> | Hambatan S | Waktu terbatas; butuh eksperimen kecil yang terukur |
+> | Yang membuka dirinya (contoh, bukan jalur wajib) | Pertanyaan terbuka tentang pengalamannya, pengakuan atas pertanyaan kritisnya, dan uji terukur yang bisa ia nilai sendiri |
+> | Yang menghambat | Janji berlebihan, mengabaikan hambatannya, dan mendorong persetujuan |
+> | Status akhir di simulasi | Sopan tetapi tetap skeptis; belum membuka informasi; memilih caranya sendiri |
+>
+> **[Tahap G: Konfirmasi]**
+>
+> | Bagian | Isi yang akan masuk laporan |
+> |---|---|
+> | Identitas | Muhammad Dhafin Faidhulhaq, 18223103, K1, 15 Oktober 2026, teks, kasus fiktif |
+> | Tujuan | Bisa melanjutkan bicara saat gugup dan presentasi dengan lancar, target bulan depan |
+> | Hasil | Belum tercapai (target bulan depan). Dalam simulasi muncul tindakan konkret: berdoa, tarik napas, mencerna pertanyaan, menguasai materi. |
+> | Refleksi | Berubah di pengetahuan; lebih yakin apa yang harus dilakukan ke depan |
+> | Kelengkapan transkrip | Lengkap, ditambah satu catatan meta (permintaan bantuan melengkapi jawaban, yang tidak dipenuhi) |
+>
+> **Pertanyaan:** Apakah ringkasan ini sudah benar? Balas **"konfirmasi"** atau tuliskan koreksinya. Setelah itu laporan `hasil_1_18223103.qmd` akan kususun.
+
+**U028 — [Tahap G: Konfirmasi]**
+
+> konfirmasi
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Status tujuan:** belum tercapai menurut laporan mahasiswa sendiri, "karena masih bulkan depan" (U027). Semua tindakan di Tahap E adalah respons tertulis dalam situasi **hipotetis**. Itu demonstrasi awal, bukan bukti tindakan di luar sesi.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Mampu: "percaya diri"; kendala: gugup, gagap, pusing, "bingung apa yg harus saya lakukan" | Situasi dipandang lebih aman: "presentasi tinggal presentasi saja" | U009, U012, U027 | Laporan diri; belum diuji di presentasi nyata |
+| Attitude | Ingin melanjutkan dan "menghilangkan rasa itu" | Penenangan diri: "tidak akan terjadi apa apa" | U010, U016, U027 | Laporan diri |
+| Knowledge | "terkadang saya belum tau langkahnya" | Menyebut langkah konkret (berdoa, tarik napas, mencerna pertanyaan, menguasai materi); mahasiswa melaporkan perubahan di "pengetahuan" | U015, U024–U027 | Laporan diri dan respons hipotetis |
+| Skill | Dugaan S, "belum terbiasa" | Demonstrasi tertulis urutan tindakan saat gagap dalam uji ulang hipotetis | U012, U024, U025 | Bukan demonstrasi bicara nyata; indikator "lancar" belum terukur (U026) |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+*Bagian ini adalah interpretasi AI fasilitator, dipisahkan dari laporan mahasiswa.*
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U013–U015 (diri) | Bingung langkah (U009) | "aku harus bisa" | "sedikit tenang… bisa melanjutkan" (U014), tetapi "belum tau langkahnya" (U015) | Rasa aman naik sedikit; gap langkah (K) tetap | Mahasiswa merevisi pesan (U016) |
+| U016–U018 (diri) | Gap langkah masih ada | "aku tidak akan kenapa napa setelah ini" | Ditafsirkan mahasiswa sebagai "harus melangkah" (U018) | Penenangan; belum ada tindakan spesifik | Tindakan spesifik baru muncul di uji ulang |
+| U019–U021 (Dimas) | Dimas meminta bukti (AI018) | "kampu pasti bisa…"; "aku telah m,embuktikannya"; "apalagi kamu" | Dimas tetap skeptis, menutup percakapan (AI019–AI021) | Tidak ada perubahan A/K/S Dimas | Pendekatan diulang tanpa pertanyaan tentang kondisi Dimas |
+| U024–U025 (uji ulang) | Gagap muncul lagi, ada pertanyaan tak terduga | Berdoa; "tarik napas, dan mencerna pertanyaanya" | Hasil hipotetis: "gagapnya hilang" | Muncul repertoar tindakan konkret dibanding sesi awal | Ada adaptasi terhadap situasi baru |
+
+**Perbandingan dugaan mahasiswa (U023, sebelum pengungkapan) dengan profil Dimas (AI027):**
+
+- Mahasiswa menilai Dimas "tidak yakin". Ini sesuai dengan sikap skeptis Dimas (A: meragukan manfaat latihan).
+- Mahasiswa menduga Dimas "butuh lebih sering untuk percaya" dan bahwa ia percaya "setelah yg kesekian kali". Ini tidak didukung transkrip: Dimas menutup dengan "Aku bakal pakai caraku sendiri dulu" (AI021).
+- Profil menunjukkan Dimas membutuhkan pertanyaan tentang pengalamannya, ukuran peningkatan (K), dan eksperimen terbatas (S). Tidak ada satu pun pertanyaan kepada Dimas dalam segmen pembanding, dan Dimas sendiri menyatakan "kamu belum tanya sekali pun kenapa latihanku berhenti" (AI021).
+- Dugaan mahasiswa tentang dirinya tetap S (U023). Bukti U009 dan U015 ("belum tau langkahnya") serta U026 ("menguasai materinya") juga menunjuk unsur K; pada U027 mahasiswa melaporkan perubahan di "pengetahuan".
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U019 | "ya Dimas, kampu pasti bisa…" | "Itu klaim, bukan bukti… Kamu juga belum tahu kenapa latihanku berhenti." (AI019) | Rasa aman: sedang → sedang; dipahami/dipedulikan: rendah; kepercayaan: rendah; keterbukaan: rendah | Dorongan hangat tetapi tanpa pengakuan hambatan Dimas; tidak ada perubahan ASK |
+| U020 | "aku telah m,embuktikannya" | "Ukurannya apa?… Kondisiku beda." (AI020) | Tetap rendah | Klaim tanpa ukuran memicu tantangan dari Dimas |
+| U021 | "kalau aku saja… bisa, apalagi kamu" | "Ya sudah, terima kasih… Aku bakal pakai caraku sendiri dulu." (AI021) | Akhir: rasa aman sedang (sopan); dipahami rendah; kepercayaan rendah; keterbukaan rendah | Relasi tetap sopan; keputusan Dimas menolak. Kategori ini catatan simulator, bukan skala psikometri. |
+| U013, U016 (diri) | "aku harus bisa"; "aku tidak akan kenapa napa setelah ini" | "sedikit tenang… bisa melanjutkan" (U014) | Rasa aman diri naik sedikit (laporan diri) | Penenangan membantu emosi, tetapi gap langkah tetap ada (U015) |
+
+Menurut mahasiswa, yang membantu rasa dipercaya adalah "mengatakan berulang kali, atau memberikan bukti" (U023). Bukti yang diajukan ("dia percaya setelah yg kesekian kali") tidak sesuai dengan respons akhir Dimas. Penilaian kepedulian di sini didasarkan pada perilaku yang tampak di teks, bukan pada ketulusan batin mahasiswa.
+
+## Uji ulang dan pembelajaran
+
+- **Respons awal (Tahap C):** hanya pesan penenangan ("aku harus bisa", "aku tidak akan kenapa napa"), disertai pengakuan "belum tau langkahnya" (U015).
+- **Respons uji ulang (Tahap E, hipotetis):** pesan penenangan ditambah tindakan konkret, yaitu berdoa (U024), tarik napas, dan mencerna pertanyaan (U025), serta persiapan menguasai materi (U026).
+- **Indikator perbaikan:** dibanding Tahap C, sudah ada urutan tindakan yang bisa dijalankan. Indikator keberhasilan masih "lancar" tanpa ukuran yang dapat dihitung, dan latihan belum diberi waktu (U026).
+- **Transfer ke orang lain:** segmen Dimas menunjukkan pesan yang membantu diri sendiri belum tentu membantu orang lain. Mahasiswa menyimpulkan perlu "lebih persuasif" (U022).
+- **Keterbatasan:** semua respons uji ulang hipotetis; "gagapnya hilang" (U025) adalah hasil yang dibayangkan, bukan hal yang teramati.
+
+## Penilaian enam dimensi
+
+*Usulan AI untuk moderasi dosen. Hasil tujuan dinilai terpisah dari nilai proses.*
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 2 | U010 "saya bisa melanjutkan dan menghilangkan rasa itu"; U011 "presentasi dgn lancar"; U012 "target bulan depan" | Kemampuan, situasi, dan waktu sudah dinyatakan. Indikator "lancar" belum terukur (U026), dan sebagian konteks baru muncul setelah beberapa kali didorong. |
+| Persepsi dan validasi profil/status | 2 | U009 "binguyng apa yg hjarus saya lakukan"; U015 "belum tau langkahnya"; U023 "dia tidak yakin… dia percaya setelah yg kesekian kali" | Status diri dilaporkan dengan jujur, dan bacaan bahwa Dimas tidak yakin sesuai. Tidak ada pertanyaan validasi kepada Dimas, klaim bahwa Dimas percaya bertentangan dengan AI021, dan dugaan S tidak direvisi meski ada bukti unsur K. |
+| Pemilihan dan urutan repertoar | 2 | U013, U016 (penenangan); U019–U021 (dorongan berulang); U024–U025 (berdoa, tarik napas, mencerna pertanyaan) | Repertoar untuk diri berkembang ke tindakan konkret di uji ulang. Kepada Dimas, stimulus yang sama diulang tanpa menggali atau memberi ukuran. |
+| Eksekusi jelas, peduli dan konsisten | 2 | U019 "kampu pasti bisa"; U021 "apalagi kamu"; U025 | Pesan ringkas dan bernada mendorong. Kepedulian kepada Dimas belum tampak dalam bentuk mendengarkan atau mengakui kondisinya; pesan diri konsisten dengan tema "tidak akan terjadi apa apa". |
+| Evaluasi dan adaptasi | 2 | U015→U016 (revisi pesan); U025 (adaptasi pada pertanyaan tak terduga); U022 "lebih persuasif" | Ada revisi dan adaptasi pada diri sendiri. Respons Dimas tidak dipakai untuk mengubah pendekatan selama dialog, dan evaluasi U023 tidak sesuai dengan bukti. |
+| Refleksi dan lesson learned | 1 | U027 "pengetahuan"; "(x)"; "menjadi lebih yakin kedepenannya saya harus apa" | Refleksi sangat singkat. Pertanyaan dugaan yang dikoreksi tidak diisi, klaim tentang Dimas tidak ditinjau ulang, dan perubahan tidak dihubungkan dengan bukti giliran. |
+
+**Jumlah skor usulan:** 11 / 24. **Nilai usulan AI sesi 1:** 11 / 24 × 100 = **45,8** (memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+
+*Jawaban mahasiswa (U022, U023, U027), dirapikan tanpa mengubah isi:*
+
+- **Perubahan ASK diri:** "pengetahuan".
+- **Pencapaian tujuan:** "belum, karena masih bulkan depan".
+- **Pesan paling membantu:** "tidak akan terjadi apa apa, presentasi tinggal presentasi saja, karena demikian".
+- **Dugaan yang dikoreksi:** tidak diisi ("(x)").
+- **Gaya komunikasi yang perlu diubah (pembanding Dimas):** "lebih persuasif, agar orang lebih percaya".
+- **Lesson learned dan tindak lanjut:** "menjadi lebih yakin kedepenannya saya harus apa".
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana (laporan mahasiswa):** presentasi lancar bulan depan (U012). Saat gugup: berdoa (U024), tarik napas, dan mencerna pertanyaan (U025). Persiapan: menguasai materi (U026).
+- **Belum ditetapkan:** jadwal latihan, dukungan, dan indikator terukur untuk "lancar".
+- **Batas bukti:** semua tindakan adalah rencana atau respons hipotetis dalam teks, bukan pelaksanaan. Modalitas teks tidak menilai prosodi, suara, atau bahasa tubuh. Perilaku Dimas adalah simulasi chatbot. Perubahan jangka panjang belum dibuktikan. Kasus dinyatakan fiktif oleh mahasiswa.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 (usulan AI: 45,8; menunggu moderasi) |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir: **Belum dihitung** (nilai makalah dan sesi 2a, 2b, 3a, 3b belum tersedia).
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.
