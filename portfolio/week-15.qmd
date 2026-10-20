@@ -85,6 +85,28 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 
 **Next practice setelah kuliah:** [ISI]
 
+## Jejak perbaikan (minimal tiga artefak)
+
+| Minggu/artefak | Versi awal | Umpan balik yang diterima | Versi sesudahnya |
+|---|---|---|---|
+| [ISI] | [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Daftar periksa portofolio akhir
+
+- [ ] Halaman pembuka (Minggu 1) menjelaskan sasaran pertumbuhan pribadi dengan jelas.
+- [ ] Artefak mewakili lebih dari satu domain komunikasi (diri, relasi dekat, profesional, komunitas, publik, AI).
+- [ ] Setiap artefak memuat konteks, bukti kinerja nyata, dan refleksi.
+- [ ] Minimal tiga artefak menunjukkan versi sebelum dan sesudah umpan balik.
+- [ ] Ada contoh konkret respons pihak lain yang mengubah rencana komunikasi.
+- [ ] Ada bukti kesepakatan atau penutupan percakapan yang jelas.
+- [ ] Evaluasi menilai hasil tindakan dan dampaknya pada relasi.
+- [ ] Data pribadi telah disamarkan dan izin pihak terlibat terdokumentasi.
+- [ ] Penggunaan AI dicatat secara jujur dan proporsional.
+- [ ] Capstone menunjukkan integrasi kompetensi semester.
+- [ ] Refleksi akhir menyebut bukti pertumbuhan dan sasaran komunikasi berikutnya.
+
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |

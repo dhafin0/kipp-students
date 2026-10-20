@@ -37,7 +37,17 @@ Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan r
 | State awal target | [ISI] |
 | Mengapa AI dipertimbangkan | [ISI] |
 
-## Spesifikasi kopilot
+## Instrumen I — Lampu lalu lintas risiko AI
+
+| Tingkat | Kriteria | Tindakan |
+|---|---|---|
+| Hijau | Tugas teknis, tata bahasa, format, simulasi ide awal | AI boleh dipakai luas; tetap periksa keluarannya |
+| Kuning | Interpretasi nilai, data sensitif, draf pesan profesional penting | Tinjauan manusia ketat atas bias, asumsi, dan nada |
+| Merah | Permintaan maaf, konflik personal, keputusan etis, penilaian karakter, risiko relasi tinggi | Jangan gunakan AI; komunikasi manual dan autentik |
+
+**Klasifikasi kasus saya:** [ISI: hijau/kuning/merah] — **alasan:** [ISI]
+
+## Instrumen II — Spesifikasi kopilot
 
 | Spesifikasi | Isi |
 |---|---|
@@ -87,6 +97,18 @@ Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan r
 **Alasan tidak menggunakan lebih banyak AI:** [ISI]
 
 **Relationship review — apakah target perlu tahu AI dipakai, dan bagaimana dampaknya pada kepercayaan:** [ISI]
+
+### Daftar periksa etika sebelum mengirim
+
+- [ ] Isi pesan sudah saya periksa kebenarannya sendiri.
+- [ ] Tidak ada data pribadi pihak lain yang dibagikan ke AI tanpa perlu.
+- [ ] Nada dan kata-kata terdengar seperti saya, bukan suara mesin.
+- [ ] Keputusan dan tanggung jawab akhir tetap di tangan saya.
+- [ ] Kasus ini bukan kategori merah.
+
+### Pernyataan transparansi
+
+"Draf pesan ini disusun dengan bantuan AI sebagai [ISI: peran AI], namun isi, keputusan akhir, dan tanggung jawab sepenuhnya berada pada [ISI: nama]."
 
 ## Analisis komunikasi
 

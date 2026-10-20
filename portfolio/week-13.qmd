@@ -45,14 +45,66 @@ Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertang
 | [ISI] | [ISI] | [ISI] |
 | [ISI] | [ISI] | [ISI] |
 
-## Satu gagasan, empat bahasa publik
+## Identitas kelompok
 
-| Versi/kanal | Target | Teks atau ringkasan artefak | Alasan pilihan language |
-|---|---|---|---|
-| 1. [ISI] | [ISI] | [ISI] | [ISI] |
-| 2. [ISI] | [ISI] | [ISI] | [ISI] |
-| 3. [ISI] | [ISI] | [ISI] | [ISI] |
-| 4. [ISI] | [ISI] | [ISI] | [ISI] |
+**Nama kelompok:** [ISI]  **Anggota:** [ISI]  **Tanggal & sesi kelas:** [ISI]
+**Kontribusi individual saya:** [ISI: bagian yang Anda tulis/kerjakan sendiri]
+
+## Fase 1 — Pemetaan gagasan inti
+
+**Gagasan teknis/konsep ilmiah pilihan:** [ISI]
+
+**Penjelasan asli (bahasa akademis/jargon):** [ISI]
+
+**Makna inti yang tidak boleh berubah:** [ISI]
+
+## Fase 2 — Detoks jargon (tandai, terjemahkan, uji)
+
+| No | Jargon yang ditandai | Terjemahan bahasa publik (analogi/istilah umum) |
+|---|---|---|
+| 1 | [ISI] | [ISI] |
+| 2 | [ISI] | [ISI] |
+| 3 | [ISI] | [ISI] |
+| 4 | [ISI] | [ISI] |
+
+## Fase 3 — Empat bahasa publik
+
+### Format A — Pitch lisan 30 detik (≤ 45 kata)
+
+*Observasi realitas → Kemungkinan hasil → Periksa ketertarikan*, tanpa clickbait.
+
+"[ISI]"
+
+**Jumlah kata:** [ISI]
+
+### Format B — Penjelasan lisan 3 menit
+
+*Analogi sederhana → Mekanisme kerja → Batasan jujur (risiko/keterbatasan)*
+
+[ISI: naskah penjelasan]
+
+### Format C — Ringkasan tulisan profesional (± 200 kata)
+
+[ISI: terstruktur, objektif, kalimat aktif, bukti pendukung transparan]
+
+### Format D — Bahasa visual
+
+**Rancangan layout/sketsa:** [ISI: kotak informasi, alur panah, judul; lampirkan gambar bila ada]
+
+**Judul visual (tanpa clickbait):** [ISI]
+
+**Teks alternatif (alt text):** [ISI: 1–2 kalimat untuk pembaca layar]
+
+## Fase 4 — Uji ke "publik umum" (penilaian rekan, skala 1–3)
+
+| Dimensi | Skor 1–3 | Bukti perilaku & catatan pengamat |
+|---|---:|---|
+| Kejernihan esensi | [ISI] | [ISI] |
+| Kemerdekaan audiens (tanpa menakut-nakuti/memaksa) | [ISI] | [ISI] |
+| Kelenturan analogi | [ISI] | [ISI] |
+| Kejujuran batas | [ISI] | [ISI] |
+
+**Rekomendasi perbaikan untuk putaran kedua:** [ISI]
 
 ## Public artifact
 
