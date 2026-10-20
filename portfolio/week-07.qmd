@@ -1,12 +1,16 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex: **Panduan Detoks Fitur** — mulai dari pernyataan masalah yang sudah dikonfirmasi (Minggu 5), bedah fitur menjadi manfaat dan nilai per peran, pangkas yang tidak relevan, lalu susun pitch minat 60 detik (≤ 120 kata) dan uji ke sasaran/rekan. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,109 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 [Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Bagian 1 — Masalah sasaran yang sudah diakui
+
+**Attention evidence (dari Minggu 5/6):** [ISI: bukti bahwa sasaran sudah mengakui masalahnya, mis. kutipan konfirmasi]
+
+**Customer problem statement:** [ISI: *[Pribadi/peran] mengalami [keadaan teramati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].*]
+
+| Pertanyaan | Jawaban |
+|---|---|
+| Siapa perannya? | [ISI] |
+| Masalah konkret yang dialami | [ISI] |
+| Dampaknya | [ISI] |
+| Kendala nyata | [ISI] |
+
+## Bagian 2 — Matriks detoks fitur
+
+| Fitur teknis | Manfaat langsung | Nilai relasional (sebut perannya) | Bukti yang dimiliki/diperlukan | Keputusan |
+|---|---|---|---|---|
+| A: [ISI] | [ISI] | [ISI] | [ISI] | [ISI: pertahankan/pangkas + alasan] |
+| B: [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+| C: [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+
+**Batas dan risiko solusi yang disampaikan secara jujur:** [ISI]
+
+## Bagian 3 — Pitch minat 60 detik (≤ 120 kata)
+
+| Langkah | Kalimat Anda |
+|---|---|
+| 1. Hubungkan kembali dengan masalah | "[ISI]" |
+| 2. Perkenalkan kemungkinan solusi | "[ISI]" |
+| 3. Jelaskan mekanisme sederhana (tanpa jargon) | "[ISI]" |
+| 4. Nyatakan manfaat & nilai riil | "[ISI]" |
+| 5. Undang tanggapan (cek minat) | "[ISI]" |
+
+**Jumlah kata:** [ISI]
+
+**Evidence/demonstrasi yang ditunjukkan:** [ISI: prototipe, sketsa, analogi, data uji coba]
+
+## Response dan adaptation
+
+**Sasaran/rekan penguji, tanggal, dan setting:** [ISI]
+
+> **Saya:** "[ISI]"
+> **Sasaran:** "[ISI]"
+> **Saya:** "[ISI]"
+> **Sasaran:** "[ISI]"
+
+**Signal interest yang teramati:** [ISI: pertanyaan lanjutan, permintaan demo, dll.]
+
+**Hidden concern yang muncul atau Anda gali:** [ISI]
+
+**State sesudah pitch:** [ISI: attention → interest? evidence]
+
+**Adaptation yang Anda lakukan:** [ISI]
+
+## Rubrik evaluasi (diisi rekan sejawat)
+
+| Kriteria | Skor 1–4 | Catatan rekan |
+|---|---:|---|
+| Kecocokan (*fit*) | [ISI] | [ISI] |
+| Kejelasan mekanisme | [ISI] | [ISI] |
+| Penerjemahan nilai | [ISI] | [ISI] |
+| Kejujuran & batas | [ISI] | [ISI] |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

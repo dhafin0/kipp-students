@@ -1,12 +1,16 @@
 ---
 title: "Public Contribution Challenge"
 week: 13
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Public artifact, evidence, context, response, dan reputation."
 categories: [Public, Contribution]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex Kuliah 13 berjudul **Satu Gagasan, Empat Bahasa Publik**. Alur minggu ini: *Public Persons → Core Meaning → Evidence → Narrative → Primary Action → Response → Accountability*. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,106 @@ Mengomunikasikan core meaning kepada public secara sederhana, benar, dan bertang
 [Buka contoh fiktif Minggu 13](../examples/week-13.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Public character, target, dan objective
+
+| Elemen | Isi |
+|---|---|
+| Gagasan/isu publik | [ISI] |
+| Public character saya | [ISI: mis. mahasiswa yang berbagi pengetahuan teknis] |
+| Public persons yang dituju | [ISI: siapa saja, dan apa yang penting bagi mereka] |
+| Core meaning (satu kalimat) | [ISI] |
+| Objective (perubahan yang diharapkan) | [ISI] |
+| Primary action yang diminta | [ISI] |
+
+### TAIDA map
+
+| Kelompok publik | State awal | Apa yang dibutuhkan untuk naik satu tingkat |
+|---|---|---|
+| [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] |
+
+## Satu gagasan, empat bahasa publik
+
+| Versi/kanal | Target | Teks atau ringkasan artefak | Alasan pilihan language |
+|---|---|---|---|
+| 1. [ISI] | [ISI] | [ISI] | [ISI] |
+| 2. [ISI] | [ISI] | [ISI] | [ISI] |
+| 3. [ISI] | [ISI] | [ISI] | [ISI] |
+| 4. [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Public artifact
+
+**Bentuk dan tempat publikasi:** [ISI: unggahan, poster, video, artikel, dll.; tanggal]
+
+**Tautan atau salinan teks lengkap artefak:** [ISI — tempelkan isi teksnya agar dapat diperiksa penilai]
+
+**Sumber evidence:**
+
+| Klaim dalam artefak | Sumber | Cara verifikasi |
+|---|---|---|
+| [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] |
+
+## Context-collapse dan reputation check
+
+| Pertanyaan | Jawaban |
+|---|---|
+| Siapa saja yang mungkin melihat artefak ini di luar target? | [ISI] |
+| Bagian mana yang bisa disalahpahami jika dibaca tanpa konteks? | [ISI] |
+| Risiko reputasi bagi saya/pihak lain dan mitigasinya | [ISI] |
+| Data pribadi atau hak cipta yang harus dijaga | [ISI] |
+
+## Response dan correction
+
+**Response publik yang diterima (kutipan/ringkasan, disamarkan):** [ISI]
+
+**Signal yang menunjukkan core meaning dipahami atau tidak:** [ISI]
+
+**Correction atau klarifikasi yang dilakukan (bila perlu):** [ISI]
+
+**Accountability — apa yang saya pertanggungjawabkan dan bagaimana:** [ISI]
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

@@ -1,12 +1,16 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex: **Demonstrasi Pembangun Keinginan** (simulasi 5 menit berpasangan). Petakan jembatan batin, siapkan minimal dua tingkat bukti beserta batasnya, antisipasi keberatan, lakukan simulasi, lalu catat umpan balik rekan. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,143 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas
+
+**Nama/NIM:** [ISI]
+**Peran saya (komunikator):** [ISI]
+**Pribadi sasaran & perannya:** [ISI: samaran]
+**Gagasan/solusi:** [ISI]
+
+## Fase I — Matriks jembatan batin
+
+| Unsur | Analisis & draf |
+|---|---|
+| Keadaan sekarang (beban) — fakta teramati | [ISI] |
+| Keadaan masa depan (hasil) — menurut sasaran | [ISI] |
+| Mekanisme solusi | [ISI] |
+| Pengorbanan (biaya, waktu, tenaga, perubahan perilaku) | [ISI] |
+| Risiko kegagalan & mitigasi jujur | [ISI] |
+
+### Rantai feature–benefit–value–outcome
+
+| Feature | Benefit | Value (bagi peran sasaran) | Outcome di hidup sasaran |
+|---|---|---|---|
+| [ISI] | [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Fase II — Tangga bukti (minimal dua tingkat)
+
+Tingkat 1 klaim logis & mekanisme · Tingkat 2 contoh/prototipe · Tingkat 3 cerita pengguna nyata · Tingkat 4 data uji coba skala kecil.
+
+| Bukti | Tingkat | Deskripsi | Batasan yang dinyatakan jujur |
+|---|---:|---|---|
+| A | [ISI] | [ISI] | [ISI] |
+| B | [ISI] | [ISI] | [ISI] |
+
+**Evidence threshold sasaran (bukti apa yang ia perlukan untuk percaya):** [ISI]
+
+## Fase III — Antisipasi keberatan
+
+| Jenis keberatan | Kemungkinan ucapan sasaran | Respons komunikasi saya |
+|---|---|---|
+| Usaha/perubahan perilaku | [ISI] | [ISI] |
+| Biaya/pengorbanan | [ISI] | [ISI] |
+| Risiko | [ISI] | [ISI] |
+
+## Simulasi 5 menit
+
+**Mitra (berperan sebagai sasaran) dan tanggal:** [ISI]
+
+| Menit | Fase | Catatan apa yang terjadi |
+|---|---|---|
+| 00–01 | Jembatan batin | [ISI] |
+| 01–03 | Demonstrasi mekanisme | [ISI] |
+| 03–04 | Tangga bukti & risiko | [ISI] |
+| 04–05 | Keberatan & periksa kebebasan | [ISI] |
+
+**Cuplikan transcript (keberatan dan respons):**
+
+> **Sasaran:** "[ISI]"
+> **Saya (parafrasa):** "[ISI]"
+> **Saya (respons):** "[ISI]"
+> **Sasaran:** "[ISI]"
+
+**State sesudah demonstrasi:** [ISI: interest → desire? evidence]
+
+**Adaptation selama/sesudah simulasi:** [ISI]
+
+## Umpan balik rekan sejawat
+
+Format: *"Ketika Anda …, saya mengamati respons …. Hal itu menunjukkan keadaan …. Saya menyarankan …"*
+
+| Aspek | Umpan balik berbasis bukti |
+|---|---|
+| Membangun jembatan batin | "[ISI]" |
+| Penyajian bukti & pengakuan risiko | "[ISI]" |
+| Mengelola keberatan | "[ISI]" |
+| Etika kebebasan memilih | "[ISI]" |
+
+## Refleksi mandiri
+
+**Hasil nyata yang paling diinginkan lawan bicara:** [ISI]
+
+**Bukti yang paling menumbuhkan rasa percaya dan alasannya:** [ISI]
+
+**Perubahan bahasa tubuh/nada saat Anda mengakui risiko:** [ISI]
+
+**Keberatan yang membuka kelemahan desain dan rencana revisi:** [ISI]
+
+## Rubrik evaluasi mandiri lembar kerja
+
+| Kriteria | Skor 1–4 | Alasan |
+|---|---:|---|
+| Hasil yang diinginkan | [ISI] | [ISI] |
+| Kejelasan mekanisme | [ISI] | [ISI] |
+| Tangga bukti | [ISI] | [ISI] |
+| Pengakuan risiko | [ISI] | [ISI] |
+| Manajemen keberatan | [ISI] | [ISI] |
+| Etika kebebasan memilih | [ISI] | [ISI] |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

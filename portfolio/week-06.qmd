@@ -1,12 +1,16 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex: **Tiga Pitch untuk Tiga Pihak** — satu masalah/peluang kampus nyata, tiga sasaran (pengguna, pelaksana, pengambil keputusan), tiga pitch ≤ 45 kata, lalu simulasi 90 detik berpasangan dengan umpan balik rekan. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,113 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Langkah 1 — Masalah atau peluang kampus
+
+**Satu kalimat berbasis fakta objektif:** [ISI]
+
+**Evidence/observasi pendukung:** [ISI: angka, waktu, lokasi, foto yang disamarkan, atau sumber]
+
+## Langkah 2 — Target map
+
+| Dimensi | Pihak 1: Pengguna | Pihak 2: Pelaksana | Pihak 3: Pengambil keputusan |
+|---|---|---|---|
+| Siapa (peran spesifik, disamarkan) | [ISI] | [ISI] | [ISI] |
+| Tujuan terkait situasi ini | [ISI] | [ISI] | [ISI] |
+| Hambatan/kendala utama | [ISI] | [ISI] | [ISI] |
+| State TAIDA awal | [ISI: belum sadar / baru memperhatikan / …] | [ISI] | [ISI] |
+
+**Target utama yang saya pilih dan alasannya:** [ISI]
+
+## Langkah 3 — Tiga pitch perhatian (maks. 45 kata)
+
+Formula masalah: **Observasi → Dampak → Periksa**. Formula peluang: **Keadaan sekarang → Kemungkinan → Periksa**.
+
+| Sasaran | Formula | Draf pitch | Jumlah kata |
+|---|---|---|---:|
+| Pengguna | [ISI: masalah/peluang] | "[ISI]" | [ISI] |
+| Pelaksana | [ISI] | "[ISI]" | [ISI] |
+| Pengambil keputusan | [ISI] | "[ISI]" | [ISI] |
+
+## Simulasi 90 detik dan umpan balik rekan
+
+**Mitra simulasi dan tanggal:** [ISI: inisial/samaran]
+
+**Catatan percakapan:**
+
+> **Saya:** "[ISI: minta izin singkat]"
+> **Saya:** "[ISI: pitch]"
+> **Mitra (sebagai sasaran):** "[ISI]"
+> **Respons nonverbal yang teramati:** [ISI]
+
+Umpan balik rekan memakai format: *"Ketika Anda menyampaikan bagian …, saya mengamati respons …. Hal itu menunjukkan perhatian saya … karena …. Saya menyarankan …"*
+
+| Pitch | Umpan balik rekan |
+|---|---|
+| Pengguna | "[ISI]" |
+| Pelaksana | "[ISI]" |
+| Pengambil keputusan | "[ISI]" |
+
+**State sesudah pitch:** [ISI: apakah attention diperoleh, dengan evidence]
+
+**Adaptation — pitch yang direvisi:** "[ISI]" (alasan perubahan: [ISI])
+
+## Refleksi mandiri
+
+**Analisis respons — isyarat paling jelas bahwa perhatian diperoleh:** [ISI]
+
+**Koreksi asumsi tentang salah satu pihak:** [ISI]
+
+**Pelajaran etika — cara menghindari interupsi bising atau manipulasi emosi:** [ISI]
+
+## Rubrik evaluasi mandiri lembar kerja
+
+| Kriteria | Skor 1–4 | Alasan |
+|---|---:|---|
+| Ketepatan sasaran | [ISI] | [ISI] |
+| Kualitas pembuka (pitch) | [ISI] | [ISI] |
+| Membaca respons & adaptasi | [ISI] | [ISI] |
+| Etika komunikasi | [ISI] | [ISI] |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

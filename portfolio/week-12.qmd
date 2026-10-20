@@ -1,12 +1,16 @@
 ---
 title: "Community Communication Challenge"
 week: 12
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Framing, deliberation, sufficient agreement, dan collective action."
 categories: [Community, Deliberation]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex: **Deliberasi Komunitas** (Bab 12) — petakan fakta/interpretasi/nilai tiap pemangku kepentingan, ubah bingkai serangan menjadi bingkai masalah bersama, fasilitasi deliberasi 20 menit, rancang kesepakatan pilot 2–4 minggu, lalu evaluasi jalur ganda. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,132 @@ Memfasilitasi community communication melintasi perbedaan dan power menuju actio
 [Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas kelompok
+
+**Kasus/isu komunitas:** [ISI]
+
+| Anggota (samaran) | Peran dalam deliberasi |
+|---|---|
+| [ISI] | Fasilitator |
+| [ISI] | Pemangku kepentingan A: [ISI] |
+| [ISI] | Pemangku kepentingan B: [ISI] |
+| [ISI] | Pemangku kepentingan C: [ISI] |
+| [ISI] | Pemangku kepentingan D: [ISI] |
+
+## Fase 1 — Lapisan perbedaan (community person map)
+
+| Pemangku kepentingan | Posisi | Fakta objektif | Interpretasi/story | Nilai/kebutuhan dasar | Power/pengaruh |
+|---|---|---|---|---|---|
+| A: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+| B: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+| C: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+| D: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Fase 2 — Reframing (minimal tiga frames)
+
+| No | Bingkai serangan awal | Reframing kolaboratif |
+|---|---|---|
+| 1 | "[ISI]" | "Bagaimana kita bisa [ISI]?" |
+| 2 | "[ISI]" | "Bagaimana kita bisa [ISI]?" |
+| 3 | "[ISI]" | "Bagaimana kita bisa [ISI]?" |
+
+**Bingkai masalah bersama kelompok:** "Bagaimana kita bisa [ISI]?"
+
+### Lima options
+
+| No | Option | Pihak yang diuntungkan | Kekhawatiran yang muncul |
+|---|---|---|---|
+| 1 | [ISI] | [ISI] | [ISI] |
+| 2 | [ISI] | [ISI] | [ISI] |
+| 3 | [ISI] | [ISI] | [ISI] |
+| 4 | [ISI] | [ISI] | [ISI] |
+| 5 | [ISI] | [ISI] | [ISI] |
+
+## Fase 3 — Catatan deliberasi (fasilitator)
+
+**Tanggal, durasi, setting:** [ISI]
+
+**Pihak paling dominan di awal:** [ISI]
+
+**Pihak paling pasif/diam:** [ISI]
+
+**Cara memunculkan suara yang sunyi (kalimat persis):** "[ISI]"
+
+**Parafrasa netral saat diskusi memanas:** "[ISI]"
+
+**Cuplikan transcript:**
+
+> **[Pihak]:** "[ISI]"
+> **Fasilitator:** "[ISI]"
+> **[Pihak]:** "[ISI]"
+
+**Sufficient agreement atau dissent yang tercatat:** [ISI]
+
+## Fase 4 — Kesepakatan pilot
+
+**Nama program uji coba:** [ISI]
+**Durasi:** [ISI: 2–4 minggu], dari [ISI] s/d [ISI]
+
+| Pihak | Tindakan yang disepakati | Tenggat | Definisi selesai & indikator keberhasilan |
+|---|---|---|---|
+| A | [ISI] | [ISI] | [ISI] |
+| B | [ISI] | [ISI] | [ISI] |
+| C | [ISI] | [ISI] | [ISI] |
+| D | [ISI] | [ISI] | [ISI] |
+
+**Safeguard — risiko terbesar yang dikhawatirkan:** [ISI]
+
+**Tindakan darurat bila batas toleransi terlewati:** [ISI]
+
+**Review plan — evaluasi bersama:** [ISI: hari/tanggal, waktu, tempat]
+
+## Fase 5 — Evaluasi jalur ganda
+
+| Jalur | Skor 1–5 | Justifikasi bukti |
+|---|---:|---|
+| Tugas: kesepakatan realistis, terukur, adil | [ISI] | [ISI] |
+| Relasi: hormat, kebebasan memilih, martabat terjaga | [ISI] | [ISI] |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

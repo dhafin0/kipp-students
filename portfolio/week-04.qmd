@@ -1,12 +1,16 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Pilih satu konsep teknis dari bidang Anda, lalu bawa makna intinya ke beberapa audiens tanpa mengubah kebenarannya. Lembar kerja Edunex meminta lima audiens (anak, sahabat beda jurusan, rekan teknis, manajer, publik); evidence wajib portfolio juga menyebut **customer**, jadi baris customer disertakan agar keduanya terpenuhi. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,102 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas
+
+**Nama:** [ISI]  **NIM:** [ISI]  **Program studi:** [ISI]  **Tanggal:** [ISI]
+
+## Tahap 1 — Detoks jargon
+
+**Konsep teknis yang dipilih:** [ISI: mis. konsep dari mata kuliah jurusan Anda]
+
+**Definisi teknis awal (versi buku teks/jurnal):** [ISI, sertakan sumber]
+
+| Jargon | Arti sederhana |
+|---|---|
+| [ISI] | [ISI] |
+| [ISI] | [ISI] |
+| [ISI] | [ISI] |
+
+**Kebenaran inti (satu kalimat sangat sederhana):** [ISI]
+
+## Tahap 2 — Matriks terjemahan
+
+| Audiens | Karakteristik & strategi | Draf terjemahan | Alasan pilihan language & repertoire |
+|---|---|---|---|
+| Anak ~10 tahun | Konkret, imajinatif, perhatian pendek → analogi fisik/cerita | [ISI] | [ISI] |
+| Sahabat beda jurusan (*friend*) | Setara, santai, tak mau digurui → informal, tanpa istilah akademis | [ISI] | [ISI] |
+| Rekan teknis (*technical peer*) | Menuntut presisi & bukti → jargon tepat, parameter, data | [ISI] | [ISI] |
+| Manajer/pengambil keputusan | Hasil, biaya, risiko → value, cost, konsekuensi | [ISI] | [ISI] |
+| Customer/pengguna | Manfaat bagi kebutuhannya → masalah yang diselesaikan, cara pakai | [ISI] | [ISI] |
+| Publik umum | Heterogen → dampak ke keselamatan, dompet, kehidupan sehari-hari | [ISI] | [ISI] |
+
+## Feedback understanding
+
+**Target yang dimintai feedback:** [ISI: inisial/samaran dan audiens yang diwakili]
+
+**Cara mengecek pemahaman:** [ISI: mis. meminta target menjelaskan ulang dengan kata-katanya sendiri]
+
+**Respons target (kutipan/ringkasan):** "[ISI]"
+
+**Bagian yang disalahpahami dan revisi yang Anda buat:** [ISI]
+
+## Tahap 3 — Refleksi
+
+**Ragam bahasa yang paling sulit dan alasannya:** [ISI]
+
+**Bagaimana detoks jargon mengubah cara Anda memandang keilmuan sendiri:** [ISI]
+
+## Rubrik evaluasi mandiri lembar kerja
+
+| Kriteria | Skor 1–4 | Alasan |
+|---|---:|---|
+| Keutuhan makna (*fidelity*) | [ISI] | [ISI] |
+| Kelenturan register (*code-switching*) | [ISI] | [ISI] |
+| Kualitas analogi & penjelasan | [ISI] | [ISI] |
+| Kedalaman refleksi | [ISI] | [ISI] |
+
+**Total:** [ISI] / 16
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

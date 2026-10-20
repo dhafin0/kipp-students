@@ -1,12 +1,16 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lakukan wawancara penemuan kebutuhan 15–20 menit dengan narasumber nyata (rekan kerja, mahasiswa, staf kampus, atau pemilik usaha mikro). Minta persetujuan dan samarkan identitasnya. Ganti setiap **[ISI: …]** dengan catatan wawancara Anda, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,105 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 [Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Profil narasumber (disamarkan)
+
+| Elemen | Isi |
+|---|---|
+| Nama samaran | [ISI] |
+| Peran/pekerjaan nyata | [ISI] |
+| Domain hubungan | [ISI: rekan kerja / pelanggan / rekan mahasiswa] |
+| Konteks lingkungan | [ISI: mis. kantin kampus, kelompok proyek, administrasi jurusan] |
+| Tanggal, durasi, medium | [ISI] |
+| Persetujuan | [ISI: lisan/tertulis; cara Anda menjelaskan penyamaran data] |
+
+## Asumsi awal
+
+**Permintaan atau masalah yang saya duga sebelum wawancara:** [ISI]
+
+**Solusi yang sempat terpikir (dan saya tahan):** [ISI]
+
+## Log wawancara — lima pertanyaan penemuan
+
+| Pertanyaan penemuan | Pertanyaan persis yang saya ajukan | Jawaban/parafrasa narasumber |
+|---|---|---|
+| 1. Apa yang sedang terjadi? (contoh konkret) | "[ISI]" | [ISI] |
+| 2. Mengapa itu menjadi masalah? (dampak) | "[ISI]" | [ISI] |
+| 3. Siapa yang terdampak? | "[ISI]" | [ISI] |
+| 4. Keadaan lebih baik seperti apa? (hasil, bukan fitur) | "[ISI]" | [ISI] |
+| 5. Apa kendalanya? (waktu, biaya, kebijakan, kemampuan, risiko) | "[ISI]" | [ISI] |
+
+**Pertanyaan tambahan yang dipakai (tertutup/klarifikasi/dampak/masa depan):** [ISI]
+
+**Cuplikan transcript penting:**
+
+> **Saya:** "[ISI]"
+> **Narasumber:** "[ISI]"
+> **Saya (parafrasa):** "[ISI]"
+> **Narasumber:** "[ISI]"
+
+## Pernyataan masalah pelanggan
+
+Formula: *[Pribadi/peran] mengalami [keadaan yang dapat diamati] ketika [konteks], sehingga [dampak]. Ia membutuhkan [hasil/kemampuan], dengan mempertimbangkan [kendala].* Tanpa menyebut solusi teknis.
+
+**Draf 1 (sebelum konfirmasi):** [ISI]
+
+**Respons narasumber saat draf dibacakan:** "[ISI]"
+
+**Draf 2 (terkonfirmasi):** [ISI]
+
+## Refleksi intrapribadi (100–150 kata)
+
+[ISI: seberapa cepat Anda menahan diri dari menawarkan solusi; asumsi awal yang terbukti keliru; janji/langkah kecil yang harus ditepati untuk menjaga kepercayaan narasumber]
+
+## Rubrik evaluasi mandiri lembar kerja
+
+| Kriteria | Skor (0–100) | Alasan |
+|---|---:|---|
+| Kualitas mendengarkan | [ISI] | [ISI] |
+| Ketepatan rumusan masalah | [ISI] | [ISI] |
+| Etika & penjagaan privasi | [ISI] | [ISI] |
+| Keandalan & hubungan | [ISI] | [ISI] |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

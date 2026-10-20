@@ -1,12 +1,16 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex: **Peta Pemangku Kepentingan & Deliberasi Banyak Pihak** (Bab 11) — simulasi meja bundar kelompok dengan fasilitator dan 3–5 pemangku kepentingan: peta posisi/kepentingan/kendala/nilai/state TAIDA, gali kepentingan tersembunyi, brainstorming tanpa menilai, kesepakatan tindakan, evaluasi jalur ganda, dan refleksi fasilitator (± 300 kata). Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,125 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 [Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas simulasi dan kelompok
+
+**Skenario kasus:** [ISI]
+**Kelompok/kelas:** [ISI]
+**Tanggal dan durasi:** [ISI]
+**Peran saya:** [ISI: fasilitator / pemangku kepentingan …]
+
+| Anggota (samaran) | Peran yang dimainkan |
+|---|---|
+| [ISI] | Fasilitator/moderator |
+| [ISI] | A: [ISI] |
+| [ISI] | B: [ISI] |
+| [ISI] | C: [ISI] |
+| [ISI] | D: [ISI] |
+| [ISI] | E: [ISI] |
+
+## Bagian 1 — Stakeholder map dan multi-state TAIDA
+
+| Pemangku kepentingan | Posisi | Kepentingan | Kendala & batasan (authority, anggaran, waktu, aturan) | Nilai | State TAIDA awal |
+|---|---|---|---|---|---|
+| A: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI: T/A/I/D/A + alasan] |
+| B: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+| C: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+| D: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+| E: [ISI] | "[ISI]" | [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Bagian 2 — Menggali kepentingan tersembunyi
+
+**Pertanyaan penyelidikan yang dipakai (kalimat persis):**
+
+- "[ISI]"
+- "[ISI]"
+
+| Pihak | Temuan kepentingan tersembunyi | Evidence (kutipan/respons) |
+|---|---|---|
+| [ISI] | [ISI] | "[ISI]" |
+| [ISI] | [ISI] | "[ISI]" |
+
+**Common ground:** [ISI: kepentingan yang saling mendukung]
+
+## Bagian 3 — Kotak pasir ide (options)
+
+| No | Ide alternatif | Kepentingan yang dijembatani | Trade-off |
+|---|---|---|---|
+| 1 | [ISI] | [ISI] | [ISI] |
+| 2 | [ISI] | [ISI] | [ISI] |
+| 3 | [ISI] | [ISI] | [ISI] |
+| 4 | [ISI: ide orisinal kelompok] | [ISI] | [ISI] |
+
+## Negotiation evidence
+
+> **[Pihak]:** "[ISI]"
+> **Fasilitator:** "[ISI]"
+> **[Pihak]:** "[ISI]"
+> **[Pihak]:** "[ISI]"
+
+**Agreement atau dissent spesifik yang tercatat:** [ISI]
+
+## Bagian 4 — Kesepakatan tindakan
+
+| Siapa | Melakukan apa | Kapan | Prasyarat | Ukuran selesai |
+|---|---|---|---|---|
+| A | [ISI] | [ISI] | [ISI] | [ISI] |
+| B | [ISI] | [ISI] | [ISI] | [ISI] |
+| C | [ISI] | [ISI] | [ISI] | [ISI] |
+| D | [ISI] | [ISI] | [ISI] | [ISI] |
+| E | [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Bagian 5 — Evaluasi jalur ganda (relationship review)
+
+| Jalur | Skor 1–5 | Bukti nyata |
+|---|---:|---|
+| Tugas | [ISI] | [ISI] |
+| Relasi | [ISI] | [ISI: apakah ada pihak yang merasa terpaksa/dibungkam; cara memberi ruang aman] |
+
+## Refleksi fasilitator (± 300 kata)
+
+[ISI: cara membaca kejutan di lapangan, makna nonverbal pihak yang defensif, dan cara mengelola ego kelompok agar tidak jatuh ke debat kusir. Jika Anda bukan fasilitator, refleksikan dari peran Anda.]
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

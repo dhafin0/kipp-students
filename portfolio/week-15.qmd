@@ -1,12 +1,16 @@
 ---
 title: "Capstone Performance Portfolio"
 week: 15
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Integrated person-centered communication performance."
 categories: [Assessment, Capstone]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Capstone Bab 15: **Menjadi Komunikator yang Utuh**. Satu performance komunikasi nyata yang memadukan seluruh rantai *Person → Character → Objective → State → Repertoire → Language → Response → Agreement → Action → Relationship*, dengan rekaman/transcript dan observer. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,105 @@ Mengintegrasikan person, character, objective, state, repertoire, language, resp
 [Buka contoh fiktif Minggu 15](../examples/week-15.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Person, character, dan performance plan
+
+| Elemen | Isi |
+|---|---|
+| Situasi performance (tanggal, setting, durasi) | [ISI] |
+| Persons dan relationship (disamarkan) | [ISI] |
+| Character saya | [ISI] |
+| Objective | [ISI] |
+| State awal tiap person (TAIDA) | [ISI] |
+| Repertoire yang direncanakan | [ISI] |
+| Language/medium | [ISI] |
+| Rencana jika response tidak sesuai harapan | [ISI] |
+| Observer | [ISI: inisial/samaran] |
+
+**Kaitan dengan sasaran pertumbuhan Minggu 1:** [ISI]
+
+## Evidence performance
+
+**Rekaman/transcript:** [ISI: tautan yang dapat diakses publik dan/atau transcript tertulis]
+
+> **[Person]:** "[ISI]"
+> **Saya:** "[ISI]"
+> **[Person]:** "[ISI]"
+> **Saya:** "[ISI]"
+
+### Decisive adaptation
+
+**Momen (menit/baris transcript):** [ISI]
+
+**Signal yang saya baca:** [ISI]
+
+**Apa yang saya ubah:** [ISI]
+
+**Response sesudah perubahan:** [ISI]
+
+## Outcome
+
+**Agreement/action atau specific disagreement:** [ISI: siapa, melakukan apa, kapan, definisi selesai — atau ketidaksepakatan yang dirumuskan spesifik]
+
+**Bukti action/follow-up:** [ISI]
+
+**Relationship outcome:** [ISI]
+
+## Observer feedback dan replay
+
+**Feedback observer (kutipan berbasis perilaku):** "[ISI]"
+
+**Replay/perbaikan yang dilakukan:** [ISI]
+
+## AI critique dan reflection
+
+**Peran AI dalam persiapan atau evaluasi:** [ISI]
+
+**Kritik terhadap output AI — apa yang benar, salah, atau berisiko:** [ISI]
+
+**Refleksi semester (humility, courage, care, accountability):** [ISI: perubahan perilaku komunikasi Anda dari Minggu 1 sampai sekarang, dengan evidence]
+
+**Next practice setelah kuliah:** [ISI]
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

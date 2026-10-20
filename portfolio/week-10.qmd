@@ -1,12 +1,16 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex: **Dokumen Kesepakatan & Lingkar Komitmen** — pisahkan posisi dari kepentingan, kunci tindakan dengan formula presisi (siapa → apa → kapan → prasyarat → definisi selesai → tindak lanjut), lacak janji sampai diterima, lalu evaluasi jalur tugas dan jalur relasi. Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,124 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 [Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas proyek dan pihak
+
+| Elemen | Isi |
+|---|---|
+| Nama proyek/gagasan | [ISI] |
+| Tanggal diskusi | [ISI] |
+| Pihak A (nama samaran & peran) | [ISI] |
+| Pihak B (nama samaran & peran) | [ISI] |
+| Pihak lain/pengamat | [ISI] |
+
+## Barrier dan authority map
+
+| Pihak | Authority (apa yang boleh ia putuskan) | Barrier menuju action (waktu, biaya, izin, kemampuan, risiko) |
+|---|---|---|
+| [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] |
+
+**Desire–action gap:** [ISI: mengapa keinginan belum berubah menjadi tindakan]
+
+## Bagian 1 — Posisi vs. kepentingan
+
+| Pihak | Posisi (tuntutan/solusi kaku) | Kepentingan (kebutuhan, dampak, alasan) |
+|---|---|---|
+| Pihak A | [ISI] | [ISI] |
+| Pihak B | [ISI] | [ISI] |
+
+**Poin temu kepentingan utama:** [ISI]
+
+### Options dan trade-off yang dibahas
+
+| Option | Keuntungan | Pengorbanan/risiko | Respons pihak lain |
+|---|---|---|---|
+| [ISI] | [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] | [ISI] |
+
+**Cuplikan negosiasi:**
+
+> **[Pihak]:** "[ISI]"
+> **Saya:** "[ISI]"
+> **[Pihak]:** "[ISI]"
+
+## Bagian 2 — Formula kesepakatan presisi
+
+Hindari kata kabur ("membantu", "segera", "nanti").
+
+| No | Siapa | Melakukan apa | Kapan | Sumber daya/prasyarat | Definisi selesai | Tindak lanjut |
+|---|---|---|---|---|---|---|
+| 1 | [ISI] | [ISI] | [ISI: hari, tanggal, jam] | [ISI] | [ISI] | [ISI] |
+| 2 | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+| 3 | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Bagian 3 — Lingkar komitmen
+
+| Fase | Butir no. [ISI] | Butir no. [ISI] |
+|---|---|---|
+| 1. Janji terbentuk (tanggal) | [ISI] | [ISI] |
+| 2. Checkpoint (≥ 2 hari sebelum tenggat) — kemajuan/kendala | [ISI] | [ISI] |
+| 3. Bukti hasil kerja; memenuhi definisi selesai? | [ISI] | [ISI] |
+| 4. Penerimaan — siapa yang memeriksa, catatan | [ISI] | [ISI] |
+
+**Bukti action atau review:** [ISI: tautan artefak, tangkapan layar yang disamarkan, notulen]
+
+## Bagian 4 — Evaluasi jalur ganda
+
+**Jalur tugas:** [ISI: target tercapai sesuai tenggat dan kriteria? kendala nyata?]
+
+**Jalur relasi:** [ISI: kualitas kepercayaan sesudah proses; ketegangan peran dan cara meredakannya]
+
+## Rubrik evaluasi mandiri lembar kerja
+
+| Aspek | Skor 1–3 | Bukti perilaku / catatan perbaikan |
+|---|---:|---|
+| Kejelasan kepentingan (bukan posisi) | [ISI] | [ISI] |
+| Presisi formula kesepakatan | [ISI] | [ISI] |
+| Pemeliharaan komitmen (checkpoint) | [ISI] | [ISI] |
+| Keseimbangan jalur ganda | [ISI] | [ISI] |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

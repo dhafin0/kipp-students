@@ -1,12 +1,16 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Minggu ini memakai latihan berpasangan **"Mendengarkan Tanpa Memperbaiki"** (20 menit: persiapan 1′, bercerita 3′, umpan balik 2′, tukar peran 6′, refleksi 8′). Ganti setiap **[ISI: …]** dengan catatan latihan Anda yang sebenarnya; samarkan nama mitra. Setelah lengkap, ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,103 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 [Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks
+
+**Nama praktikan:** [ISI]
+**Mitra latihan:** [ISI: inisial/samaran dan relasi, mis. teman sekelas]
+**Tanggal dan setting:** [ISI]
+**Relationship state sebelum latihan:** [ISI: seberapa dekat, pola komunikasi yang biasa terjadi]
+
+## Transcript atau catatan percakapan
+
+Saat Anda menjadi **pendengar**:
+
+> **Mitra:** "[ISI]"
+> **Saya:** "[ISI: pertanyaan terbuka 1]"
+> **Mitra:** "[ISI]"
+> **Saya:** "[ISI: parafrasa]"
+> **Mitra:** "[ISI]"
+> **Saya:** "[ISI: tebakan perasaan/kebutuhan secara tentatif]"
+> **Saya:** "Apakah saat ini kamu hanya ingin didengarkan saja, dibantu memikirkan pilihan tindakan bersama, atau kamu memerlukan saran dariku?"
+> **Mitra:** "[ISI]"
+
+## Bagian A — Catatan pendengar (tiga tingkat mendengarkan)
+
+| Tingkat | Hasil tangkapan saya |
+|---|---|
+| 1. Kata — fakta/kejadian nyata yang diceritakan | [ISI: tanpa "selalu"/"tidak pernah"] |
+| 2. Makna — parafrasa yang saya ucapkan | "[ISI: kalimat persis]" |
+| 3. Pribadi — perasaan mitra | [ISI] |
+| 3. Pribadi — kebutuhan/nilai mitra | [ISI] |
+| Respons mitra terhadap "Pertanyaan Emas" | Mitra memilih: [ISI: hanya didengarkan / dibantu memetakan pilihan / butuh saran] |
+
+## Bagian B — Umpan balik dari mitra
+
+**Momen kehadiran paling berdampak:** [ISI: kapan mitra merasa paling didengarkan, dan tindakan verbal/nonverbal apa yang membantu]
+
+**Momen asumsi atau "buru-buru memperbaiki":** [ISI: di titik mana Anda menyela, berasumsi, atau ingin memberi solusi]
+
+## Bagian C — Jurnal refleksi
+
+**Refleksi kebiasaan otomatis:** [ISI: apakah Anda lebih sering memperbaiki atau mendengarkan dulu; apa rasanya menahan diri]
+
+**Memahami vs. menyetujui:** [ISI]
+
+**Komitmen 14 hari ke depan:** Dalam 14 hari ke depan, saya berkomitmen untuk [ISI: perilaku spesifik dan terukur bersama keluarga/sahabat].
+
+**Relationship state sesudah latihan:** [ISI: apa yang berubah dalam rasa percaya atau kedekatan, dengan evidence]
+
+## Rubrik evaluasi diri latihan
+
+| Dimensi | Skor 1–4 | Alasan |
+|---|---:|---|
+| Kehadiran & menyimak aktif | [ISI] | [ISI] |
+| Pemisahan fakta & interpretasi | [ISI] | [ISI] |
+| Pendalaman rasa ingin tahu (pertanyaan) | [ISI] | [ISI] |
+| Validasi emosi & otonomi | [ISI] | [ISI] |
+
+**Skor:** [ISI] / 16 → **Nilai konversi:** [ISI] (skala 100)
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

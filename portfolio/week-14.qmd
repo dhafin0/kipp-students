@@ -1,12 +1,16 @@
 ---
 title: "AI-Mediated Communication Design"
 week: 14
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "AI role, prompt, output, human revision, boundary, dan risk."
 categories: [AI, Ethics]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Lembar kerja Edunex Kuliah 14 berjudul **Spesifikasi Kopilot** (Komunikasi Berpusat pada Manusia di Era AI). Prinsip minggu ini: *AI mendukung kecerdasan; manusia tetap memegang relationship, authority, dan responsibility.* Ganti setiap **[ISI: …]**, lalu ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,108 @@ Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan r
 [Buka contoh fiktif Minggu 14](../examples/week-14.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Communication design
+
+| Elemen | Isi |
+|---|---|
+| Kasus komunikasi nyata | [ISI] |
+| Persons dan relationship (disamarkan) | [ISI] |
+| Character saya | [ISI] |
+| Objective | [ISI] |
+| State awal target | [ISI] |
+| Mengapa AI dipertimbangkan | [ISI] |
+
+## Spesifikasi kopilot
+
+| Spesifikasi | Isi |
+|---|---|
+| Peran AI yang dipilih | [ISI: mis. editor bahasa, simulator lawan bicara, pemeriksa fakta, perangkum, penyusun opsi, pelatih] |
+| Peran yang sengaja tidak diberikan ke AI | [ISI] |
+| Data yang boleh dibagikan | [ISI] |
+| Data yang tidak boleh dibagikan | [ISI] |
+| Values dan constraints yang harus dijaga | [ISI] |
+| Authority: keputusan yang tetap di tangan saya/pihak lain | [ISI] |
+| Cara review output | [ISI] |
+
+## Prompt dan output
+
+**Alat AI dan tanggal:** [ISI]
+
+**Prompt persis:**
+
+```text
+[ISI: tempel prompt Anda]
+```
+
+**Output AI (kutipan relevan):**
+
+```text
+[ISI: tempel bagian output yang dipakai/ditolak]
+```
+
+## Human revision
+
+| Bagian output AI | Keputusan (pakai/ubah/tolak) | Alasan | Versi akhir saya |
+|---|---|---|---|
+| [ISI] | [ISI] | [ISI] | [ISI] |
+| [ISI] | [ISI] | [ISI] | [ISI] |
+
+**Hasil komunikasi dengan target (response dan state sesudahnya):** [ISI]
+
+## Privacy, authority, dan risk review
+
+| Risiko | Ada/tidak & evidence | Mitigasi |
+|---|---|---|
+| Privacy | [ISI] | [ISI] |
+| Profiling/stereotipe | [ISI] | [ISI] |
+| Manipulation | [ISI] | [ISI] |
+| Dependency (kehilangan kompetensi sendiri) | [ISI] | [ISI] |
+| Authority error (AI seolah memutuskan) | [ISI] | [ISI] |
+
+**Alasan tidak menggunakan lebih banyak AI:** [ISI]
+
+**Relationship review — apakah target perlu tahu AI dipakai, dan bagaimana dampaknya pada kepercayaan:** [ISI]
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

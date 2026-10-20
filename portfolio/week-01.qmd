@@ -1,12 +1,16 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Ganti setiap teks **[ISI: …]** dengan pengalaman dan data Anda sendiri, lalu hapus petunjuknya. Gunakan inisial atau samaran ("Mitra A") untuk orang lain. Setelah lengkap, ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,100 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Identitas lembar kerja
+
+**Nama/samaran:** [ISI]
+**Tanggal pengerjaan:** [ISI: tanggal]
+
+## Bagian A — Peta lima domain kehidupan
+
+Pilih satu peran yang paling dominan atau ingin Anda kembangkan di tiap domain.
+
+| Domain | Peran (character) yang saya ambil | Siapa yang saya jumpai (person & relationship) | Tanggung jawab utama komunikasi | Objective | Repertoire & language | Risiko & latihan |
+|---|---|---|---|---|---|---|
+| 1. Diri sendiri | [ISI: mis. pembelajar reflektif] | [ISI] | [ISI] | [ISI: perubahan yang ingin dicapai] | [ISI: tindakan + contoh kalimat] | [ISI: pola yang berisiko + cara melatihnya] |
+| 2. Keluarga / sahabat | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+| 3. Profesional / akademik | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+| 4. Komunitas / kelompok | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+| 5. Dunia / publik | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] | [ISI] |
+
+## Bagian B — Analisis kontras dua peran utama
+
+Pilih dua peran dari Bagian A yang paling kontras atau menantang.
+
+| Unsur komunikasi | Peran A: [ISI nama peran] | Peran B: [ISI nama peran] |
+|---|---|---|
+| 1. Tujuan tugas & relasi | [ISI: perubahan pengetahuan/kesepakatan/tindakan/relasi] | [ISI] |
+| 2. Repertoar utama | [ISI: mendengarkan, bertanya, bercerita, menyajikan fakta, bernegosiasi …] | [ISI] |
+| 3. Pilihan bahasa & nada | [ISI: nada, kata, tingkat kerumitan, medium] | [ISI] |
+| 4. Respons yang harus dibaca | [ISI: isyarat verbal/nonverbal penting] | [ISI] |
+| 5. Tindakan yang diharapkan | [ISI: hasil konkret tanda peran berhasil] | [ISI] |
+| 6. Relasi yang harus dirawat | [ISI: kualitas hubungan jangka panjang] | [ISI] |
+
+### Perubahan language ketika character berubah
+
+Satu pesan inti yang sama, disampaikan dalam dua character berbeda:
+
+- **Pesan inti (meaning):** [ISI]
+- **Sebagai [peran A]:** "[ISI: kalimat persis yang Anda ucapkan/tulis]"
+- **Sebagai [peran B]:** "[ISI: kalimat persis]"
+- **Apa yang tetap dan apa yang berubah:** [ISI: nilai inti yang tetap; nada, kata, dan action yang berubah]
+
+## Bagian C — Kepribadian dan sasaran pertumbuhan
+
+**Nilai utama yang ingin saya tampakkan:** [ISI: mis. kejujuran, penghargaan, keadilan]
+
+**Kekuatan komunikasi saya:** [ISI: kecenderungan yang selama ini membantu]
+
+**Pola hambatan otomatis di bawah tekanan:** [ISI]
+
+**Ketegangan peran dan kepribadian:**
+"Saya cenderung [ISI: kecenderungan], tetapi peran saya sebagai [ISI: peran] menuntut saya untuk [ISI: perilaku komunikasi]." Situasi spesifiknya: [ISI].
+
+**Sasaran pertumbuhan perilaku (4–6 minggu):** [ISI: sasaran mikro yang dapat diamati dan diukur, mis. "Ketika …, saya akan … selama … lalu …"]
+
+**Pemberi umpan balik jujur:** [ISI: inisial/samaran dan hubungannya dengan Anda]
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI: bagaimana Anda membedakan person, personality, dan character pada peta di atas] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI: respons yang Anda perhatikan dan bagaimana Anda menyesuaikan diri] |
+| Agreement/action | [ISI: tindakan nyata pertama untuk sasaran pertumbuhan] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan/ringkasan dari pemberi umpan balik]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

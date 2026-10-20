@@ -1,12 +1,16 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
+status: "Draft"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
+
+::: {.callout-important title="Kerangka pengisian"}
+Ganti setiap teks **[ISI: …]** dengan pengalaman Anda sendiri, lalu hapus petunjuknya. Pilih peristiwa yang aman dipelajari secara akademis (bukan kekerasan atau trauma berat). Setelah lengkap, ubah `status` menjadi `Siap dinilai`.
+:::
 
 ## Kompetensi target
 
@@ -22,4 +26,107 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks
+
+**Tanggal dan setting:** [ISI: kapan dan di mana peristiwa terjadi]
+
+**Siklus yang dianalisis:** Peristiwa (fakta) → Interpretasi (asumsi) → Narasi (identitas) → Emosi → Pilihan → Tindakan
+
+## Bagian 1 — Identifikasi kasus
+
+**1. Peristiwa yang dapat diamati (fakta objektif).** Tulis apa yang akan terekam kamera: tanpa penilaian karakter, tanpa "selalu/pasti", tanpa dugaan niat.
+
+[ISI: mis. "Pesan yang saya kirim ke grup pukul 20.00 belum dibalas hingga pukul 23.00."]
+
+**2. Interpretasi pertama (asumsi otomatis / initial story).**
+
+[ISI: kesimpulan pertama yang langsung muncul di kepala]
+
+**3. Emosi dan sensasi tubuh.**
+
+| Emosi | Intensitas 0–10 | Sensasi tubuh |
+|---|---:|---|
+| [ISI] | [ISI] | [ISI: napas pendek, rahang tegang, dll.] |
+| [ISI] | [ISI] | [ISI] |
+
+## Bagian 2 — Tiga narasi atas satu peristiwa
+
+### Versi A — Narasi korban
+
+[ISI: narasi di mana semua kendali di luar diri Anda]
+
+**Pilihan tindakan otomatis (reaktif) dari narasi ini:** [ISI]
+
+### Versi B — Narasi analitis
+
+| Pertanyaan | Jawaban |
+|---|---|
+| Fakta yang benar-benar terbukti | [ISI] |
+| Penjelasan alternatif 1 yang belum diperiksa | [ISI] |
+| Penjelasan alternatif 2 yang belum diperiksa | [ISI] |
+| Faktor yang berada di bawah kendali saya | [ISI] |
+
+### Versi C — Narasi pertumbuhan
+
+[ISI: akui kesulitan dan emosi, lalu arahkan pada nilai jangka panjang]
+
+**Pelajaran yang saya ambil:** [ISI]
+
+## Bagian 3 — Merancang respons
+
+**Internal agreement (pilihan respons):** [ISI: tindakan kecil, konkret, dan asertif yang Anda putuskan, lengkap dengan waktu]
+
+**Bukti tindakan berikutnya:** [ISI: apa yang benar-benar Anda lakukan, kapan, dan apa hasilnya. Lampirkan kutipan pesan, tangkapan layar yang disamarkan, atau catatan.]
+
+**Dukungan yang diperlukan:** [ISI: inisial/samaran orang tepercaya yang dimintai umpan balik]
+
+## Cek mandiri sebelum diserahkan
+
+- [ ] Fakta di Bagian 1 bebas dari asumsi, penilaian moral, dan dramatisasi.
+- [ ] Narasi analitis memuat minimal dua penjelasan alternatif.
+- [ ] Emosi diakui jujur tanpa dikuasai reaksi impulsif.
+- [ ] Tindakan akhir spesifik, realistis, dan menyelesaikan masalah, bukan menghindar.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | [ISI] |
+| Objective & state | [ISI] |
+| Repertoire & language | [ISI] |
+| Response & adaptation | [ISI] |
+| Agreement/action | [ISI] |
+| Relationship outcome | [ISI] |
+
+## Penggunaan AI
+
+[ISI: tulis `Tidak menggunakan AI`, atau jelaskan alat dan perannya, prompt penting, bagian output yang dipakai/diubah/ditolak, pemeriksaan accuracy-privacy-authority, dan apa yang tetap Anda pelajari sendiri.]
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** [ISI: kutipan atau ringkasan berbasis evidence]
+
+**Adaptation/replay:** [ISI]
+
+**Next practice:** [ISI: satu perilaku spesifik berikutnya]
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | [ISI] | [ISI] |
+| Objective & State | [ISI] | [ISI] |
+| Repertoire, Language & AI | [ISI] | [ISI] |
+| Response & Adaptation | [ISI] | [ISI] |
+| Agreement, Action & Relationship | [ISI] | [ISI] |
+
+**Total:** [ISI] / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
